@@ -1,0 +1,65 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Transform: AWS::Serverless-2016-10-31
+
+Resources:
+  VPC:
+    Type: AWS::EC2::VPC
+    Properties:
+      CidrBlock: 10.100.0.0/16
+      EnableDnsSupport: 'true'
+      EnableDnsHostnames: 'true'
+      
+  PublicSubnet:
+    Type: AWS::EC2::Subnet
+    Properties:
+      VpcId: !Ref VPC
+      CidrBlock: 10.100.1.0/24
+      AvailabilityZone: us-east-1a
+      
+  PrivateSubnet:
+    Type: AWS::EC2::Subnet
+    Properties:
+      VpcId: !Ref VPC
+      CidrBlock: 10.100.2.0/24
+      AvailabilityZone: us-east-1b
+      
+  InternetGateway:
+    Type: AWS::EC2::InternetGateway
+    
+  AttachInternetGateway:
+    Type: AWS::EC2::VPCGatewayAttachment
+    Properties:
+      VpcId: !Ref VPC
+      InternetGatewayId: !Ref InternetGateway
+      
+  RouteTable:
+    Type: AWS::EC2::RouteTable
+    Properties:
+      VpcId: !Ref VPC
+      
+  RouteTableInternetGateway:
+    Type: AWS::EC2::Route
+    DependsOn: InternetGateway
+    Properties:
+      RouteTableId: !Ref RouteTable
+      DestinationCidrBlock: 0.0.0.0/0
+      GatewayId: !Ref InternetGateway
+      
+  VPCAssociationPublicSubnet:
+    Type: AWS::EC2::SubnetRouteTableAssociation
+    Properties:
+      RouteTableId: !Ref RouteTable
+      SubnetId: !Ref PublicSubnet
+      
+  BucketRDAP:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: raw-data-plague
+  BucketTDAP:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: trusted-data-plague
+  BucketResults:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: refined-data-plague
