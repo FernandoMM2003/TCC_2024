@@ -1,9 +1,12 @@
-create database AntiPlague;
+#create database AntiPlague;
 
 use AntiPlague;
 
-select count(*) from covid_data;
-select count(*) from covid_data_total;
+select count(*) from covid_data_total where location = 'China';
+select count(*) from covid_data_total where location = 'United States';
+
+
+select * from covid_data_total;
 
 -- Tabela principal que contém todos os campos
 CREATE TABLE covid_data (
@@ -40,6 +43,8 @@ CREATE TABLE covid_data (
 
 -- Tabela principal que contém todos os campos
 CREATE TABLE covid_data_total (
+    sequencial INT,
+    continent VARCHAR(255),
     location VARCHAR(255),
     date DATE,
     total_cases FLOAT,
