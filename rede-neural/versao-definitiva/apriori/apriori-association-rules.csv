@@ -1,0 +1,96 @@
+country,antecedents,lift,confidence,support
+Albania,"'Taxa de Extrema Pobreza (%)', 'Gini (Indice de Desigualdade no Pais)', 'DTP3'",4.2,0.8,0.19047619047619047
+Algeria,'Saneamento Seguro (%)',1.909090909090909,0.7272727272727272,0.38095238095238093
+Argentina,"'Saneamento Seguro (%)', 'Hib3', 'BCG'",7.0,1.0,0.14285714285714285
+Armenia,"'Populacao', 'DTP3'",5.25,0.5,0.09523809523809523
+Austria,"'Saneamento Seguro (%)', 'Hib3'",7.0,1.0,0.14285714285714285
+Bahrain,"'Saneamento Seguro (%)', 'Hib3'",2.1,1.0,0.47619047619047616
+Bangladesh,"'Taxa de Extrema Pobreza (%)', 'BCG'",7.0,1.0,0.09523809523809523
+Belgium,'DTP3',1.6153846153846154,0.3846153846153846,0.23809523809523808
+Benin,"'Saneamento Seguro (%)', 'Hib3', 'BCG'",3.0,1.0,0.14285714285714285
+Bhutan,"'Taxa de Extrema Pobreza (%)', 'Gini (Indice de Desigualdade no Pais)'",2.1,0.3,0.14285714285714285
+Bosnia and Herzegovina,"'Hib3', 'Populacao'",4.2,0.4,0.09523809523809523
+Brazil,"'Saneamento Seguro (%)', 'DTP3'",5.25,1.0,0.09523809523809523
+Bulgaria,'Populacao',1.909090909090909,1.0,0.5238095238095238
+Burkina Faso,"'Saneamento Seguro (%)', 'Hib3'",2.3333333333333335,1.0,0.42857142857142855
+Central African Republic,"'Hib3', 'DTP3'",5.25,0.75,0.14285714285714285
+Chad,'Hib3',1.909090909090909,1.0,0.5238095238095238
+Chile,"'Taxa de Extrema Pobreza (%)', 'Hib3'",3.0000000000000004,0.7142857142857143,0.23809523809523808
+China,"'Taxa de Extrema Pobreza (%)', 'BCG'",2.1,1.0,0.09523809523809523
+Colombia,"'Hib3', 'Gini (Indice de Desigualdade no Pais)'",3.5,1.0,0.2857142857142857
+Costa Rica,"'Saneamento Seguro (%)', 'Gini (Indice de Desigualdade no Pais)', 'BCG'",7.0,1.0,0.09523809523809523
+Croatia,"'Hib3', 'Populacao', 'DTP3'",3.0000000000000004,0.7142857142857143,0.23809523809523808
+Cuba,"'Saneamento Seguro (%)', 'Hib3'",4.2,0.4,0.09523809523809523
+Cyprus,"'Gini (Indice de Desigualdade no Pais)', 'DTP3'",3.0,0.2857142857142857,0.09523809523809523
+Denmark,'Hib3',1.6153846153846154,0.3846153846153846,0.23809523809523808
+Djibouti,"'Taxa de Extrema Pobreza (%)', 'BCG'",3.5,0.6666666666666666,0.09523809523809523
+Dominican Republic,"'Hib3', 'BCG'",2.3333333333333335,1.0,0.23809523809523808
+Ecuador,"'Saneamento Seguro (%)', 'BCG'",10.5,1.0,0.09523809523809523
+Egypt,"'Saneamento Seguro (%)', 'BCG'",7.0,0.6666666666666666,0.09523809523809523
+Estonia,"'BCG', 'Gini (Indice de Desigualdade no Pais)'",2.625,1.0,0.23809523809523808
+Ethiopia,'Hib3',1.909090909090909,1.0,0.5238095238095238
+Fiji,'Saneamento Seguro (%)',1.909090909090909,1.0,0.5238095238095238
+France,'Hib3',1.909090909090909,0.3636363636363636,0.19047619047619047
+Gambia,"'Taxa de Extrema Pobreza (%)', 'Populacao'",5.25,1.0,0.09523809523809523
+Georgia,"'Taxa de Extrema Pobreza (%)', 'Saneamento Seguro (%)', 'BCG'",3.5,0.5,0.14285714285714285
+Germany,"'Hib3', 'Populacao'",2.1,1.0,0.23809523809523808
+Ghana,"'Saneamento Seguro (%)', 'Hib3', 'BCG'",2.8000000000000003,0.8,0.19047619047619047
+Greece,'Populacao',1.909090909090909,0.3636363636363636,0.19047619047619047
+Guinea-Bissau,"'Saneamento Seguro (%)', 'BCG'",2.625,1.0,0.3333333333333333
+Honduras,"'Saneamento Seguro (%)', 'Gini (Indice de Desigualdade no Pais)'",5.25,1.0,0.14285714285714285
+India,'DTP3',1.909090909090909,1.0,0.5238095238095238
+Ireland,'BCG',1.0413223140495866,0.5454545454545454,0.2857142857142857
+Israel,"'Saneamento Seguro (%)', 'Hib3'",2.625,1.0,0.38095238095238093
+Italy,"'Hib3', 'DTP3'",1.6153846153846152,0.30769230769230765,0.19047619047619047
+Japan,"'Populacao', 'DTP3'",2.3333333333333335,0.3333333333333333,0.14285714285714285
+Kenya,"'Saneamento Seguro (%)', 'BCG', 'DTP3'",2.625,0.25,0.09523809523809523
+Kiribati,"'Hib3', 'BCG'",2.625,1.0,0.23809523809523808
+Kuwait,"'Hib3', 'Populacao'",4.2,1.0,0.23809523809523808
+Laos,'BCG',1.909090909090909,1.0,0.5238095238095238
+Latvia,"'Taxa de Extrema Pobreza (%)', 'Hib3'",2.8000000000000003,0.8,0.19047619047619047
+Lebanon,"'Taxa de Extrema Pobreza (%)', 'Hib3'",2.3333333333333335,1.0,0.3333333333333333
+Lesotho,"'Saneamento Seguro (%)', 'DTP3'",3.5,1.0,0.23809523809523808
+Luxembourg,'Saneamento Seguro (%)',1.909090909090909,0.1818181818181818,0.09523809523809523
+Malaysia,'Saneamento Seguro (%)',1.909090909090909,1.0,0.5238095238095238
+Mali,"'Saneamento Seguro (%)', 'BCG'",2.916666666666667,0.8333333333333334,0.23809523809523808
+Malta,'Saneamento Seguro (%)',1.909090909090909,1.0,0.5238095238095238
+Mexico,"'Saneamento Seguro (%)', 'Hib3'",10.5,1.0,0.09523809523809523
+Morocco,"'Taxa de Extrema Pobreza (%)', 'Hib3'",4.666666666666667,0.6666666666666666,0.09523809523809523
+Nepal,"'BCG', 'Gini (Indice de Desigualdade no Pais)'",7.0,0.6666666666666666,0.09523809523809523
+Netherlands,"'Gini (Indice de Desigualdade no Pais)', 'DTP3'",1.909090909090909,1.0,0.38095238095238093
+New Zealand,'BCG',1.0,0.5238095238095238,0.5238095238095238
+Nigeria,"'Taxa de Extrema Pobreza (%)', 'DTP3'",2.625,1.0,0.14285714285714285
+Norway,'Hib3',1.2115384615384615,0.23076923076923075,0.14285714285714285
+Palestine,"'Hib3', 'DTP3'",2.1,0.8,0.38095238095238093
+Paraguay,"'Saneamento Seguro (%)', 'Gini (Indice de Desigualdade no Pais)'",5.25,1.0,0.09523809523809523
+Peru,"'Hib3', 'Gini (Indice de Desigualdade no Pais)'",2.625,1.0,0.3333333333333333
+Philippines,"'Hib3', 'Gini (Indice de Desigualdade no Pais)'",5.25,1.0,0.19047619047619047
+Poland,"'Hib3', 'Populacao'",2.3333333333333335,1.0,0.14285714285714285
+Portugal,"'Populacao', 'DTP3'",2.1,0.5,0.09523809523809523
+Qatar,"'Saneamento Seguro (%)', 'Hib3', 'DTP3'",3.5,0.6666666666666666,0.19047619047619047
+Romania,"'BCG', 'DTP3'",2.1,0.2,0.09523809523809523
+Russia,"'Taxa de Extrema Pobreza (%)', 'Gini (Indice de Desigualdade no Pais)'",2.296875,0.875,0.3333333333333333
+Sao Tome and Principe,"'Taxa de Extrema Pobreza (%)', 'Hib3'",5.25,1.0,0.09523809523809523
+Saudi Arabia,"'Saneamento Seguro (%)', 'BCG'",2.296875,0.875,0.3333333333333333
+Senegal,"'Saneamento Seguro (%)', 'Populacao'",2.1,1.0,0.23809523809523808
+Sierra Leone,"'Taxa de Extrema Pobreza (%)', 'Hib3'",7.0,1.0,0.09523809523809523
+Singapore,'BCG',1.25,0.35714285714285715,0.23809523809523808
+Slovakia,"'Saneamento Seguro (%)', 'Hib3'",2.1,1.0,0.38095238095238093
+Slovenia,'Hib3',1.5,0.5,0.3333333333333333
+South Africa,"'Saneamento Seguro (%)', 'Hib3'",2.625,1.0,0.3333333333333333
+South Korea,'Hib3',1.0,0.5238095238095238,0.5238095238095238
+Spain,"'Saneamento Seguro (%)', 'Populacao'",10.5,1.0,0.09523809523809523
+Suriname,"'Saneamento Seguro (%)', 'Hib3'",3.5,0.3333333333333333,0.09523809523809523
+Sweden,"'Saneamento Seguro (%)', 'DTP3'",3.0000000000000004,0.7142857142857143,0.23809523809523808
+Switzerland,"'Saneamento Seguro (%)', 'Gini (Indice de Desigualdade no Pais)'",2.4,0.5714285714285714,0.19047619047619047
+Tanzania,"'Hib3', 'BCG'",2.1,0.8,0.38095238095238093
+Thailand,'Saneamento Seguro (%)',1.909090909090909,0.909090909090909,0.47619047619047616
+Togo,"'Taxa de Extrema Pobreza (%)', 'Hib3'",4.2,1.0,0.09523809523809523
+Turkey,"'Taxa de Extrema Pobreza (%)', 'BCG', 'DTP3'",4.666666666666667,0.6666666666666666,0.09523809523809523
+Uganda,'Hib3',1.909090909090909,1.0,0.5238095238095238
+Ukraine,"'BCG', 'Gini (Indice de Desigualdade no Pais)'",2.3333333333333335,1.0,0.42857142857142855
+United Arab Emirates,"'Hib3', 'Populacao'",2.1,0.2,0.09523809523809523
+United Kingdom,"'Hib3', 'Gini (Indice de Desigualdade no Pais)'",2.1,0.2,0.09523809523809523
+United States,"'Saneamento Seguro (%)', 'Numero de Usuario de Internet'",2.3333333333333335,0.4444444444444444,0.19047619047619047
+Uzbekistan,"'Populacao', 'DTP3'",2.625,0.75,0.2857142857142857
+Zimbabwe,"'Taxa de Extrema Pobreza (%)', 'Hib3'",2.3333333333333335,1.0,0.19047619047619047
