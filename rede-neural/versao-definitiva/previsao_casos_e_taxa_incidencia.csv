@@ -1,476 +1,1191 @@
-País,Ano,Previsão de Casos,Taxa de Incidência (por 100k hab),Status de Epidemia
-Albania,2016,664285,22698,Não em Epidemia
-Albania,2017,659511,22586,Não em Epidemia
-Albania,2018,655701,22463,Não em Epidemia
-Albania,2019,652479,22339,Não em Epidemia
-Albania,2020,649902,22231,Não em Epidemia
-Algeria,2016,6001652,16300,Não em Epidemia
-Algeria,2017,5991560,15949,Não em Epidemia
-Algeria,2018,5984262,15609,Não em Epidemia
-Algeria,2019,5977127,15282,Não em Epidemia
-Algeria,2020,5971081,14976,Não em Epidemia
-Argentina,2016,10287203,24695,Não em Epidemia
-Argentina,2017,10302301,24473,Não em Epidemia
-Argentina,2018,10317720,24254,Não em Epidemia
-Argentina,2019,10334200,24043,Não em Epidemia
-Argentina,2020,10352278,23843,Não em Epidemia
-Armenia,2016,758912,26392,Não em Epidemia
-Armenia,2017,754135,26168,Não em Epidemia
-Armenia,2018,749787,25913,Não em Epidemia
-Armenia,2019,746147,25674,Não em Epidemia
-Armenia,2020,743447,25487,Não em Epidemia
-Austria,2016,1034694,12231,Não em Epidemia
-Austria,2017,1029513,12087,Não em Epidemia
-Austria,2018,1025275,11953,Não em Epidemia
-Austria,2019,1021848,11836,Não em Epidemia
-Austria,2020,1018761,11739,Não em Epidemia
-Bahrain,2016,267857,20955,Não em Epidemia
-Bahrain,2017,276415,21259,Não em Epidemia
-Bahrain,2018,285263,21686,Não em Epidemia
-Bahrain,2019,296168,22162,Não em Epidemia
-Bahrain,2020,308592,22495,Não em Epidemia
-Bangladesh,2016,25577392,16618,Não em Epidemia
-Bangladesh,2017,25404568,16314,Não em Epidemia
-Bangladesh,2018,25252314,16026,Não em Epidemia
-Bangladesh,2019,25133538,15767,Não em Epidemia
-Bangladesh,2020,25039112,15533,Não em Epidemia
-Belgium,2016,1385064,12577,Não em Epidemia
-Belgium,2017,1377206,12426,Não em Epidemia
-Belgium,2018,1370297,12288,Não em Epidemia
-Belgium,2019,1364526,12162,Não em Epidemia
-Belgium,2020,1359587,12045,Não em Epidemia
-Benin,2016,2693292,28468,Não em Epidemia
-Benin,2017,2758415,28352,Não em Epidemia
-Benin,2018,2830888,28296,Não em Epidemia
-Benin,2019,2919221,28379,Não em Epidemia
-Benin,2020,3026548,28617,Não em Epidemia
-Bhutan,2016,86095,11626,Não em Epidemia
-Bhutan,2017,85824,11398,Não em Epidemia
-Bhutan,2018,85618,11192,Não em Epidemia
-Bhutan,2019,85446,11005,Não em Epidemia
-Bhutan,2020,85292,10832,Não em Epidemia
-Bosnia and Herzegovina,2016,845636,22924,Não em Epidemia
-Bosnia and Herzegovina,2017,836266,22923,Não em Epidemia
-Bosnia and Herzegovina,2018,827919,22966,Não em Epidemia
-Bosnia and Herzegovina,2019,821157,23027,Não em Epidemia
-Bosnia and Herzegovina,2020,815922,23075,Não em Epidemia
-Brazil,2016,64473764,32450,Não em Epidemia
-Brazil,2017,64480192,32150,Não em Epidemia
-Brazil,2018,64535148,31884,Não em Epidemia
-Brazil,2019,64581928,31625,Não em Epidemia
-Brazil,2020,64662464,31395,Não em Epidemia
-Bulgaria,2016,1954149,26565,Não em Epidemia
-Bulgaria,2017,1909932,26126,Não em Epidemia
-Bulgaria,2018,1880033,25874,Não em Epidemia
-Bulgaria,2019,1856054,25699,Não em Epidemia
-Bulgaria,2020,1839935,25635,Não em Epidemia
-Burkina Faso,2016,4542626,28247,Não em Epidemia
-Burkina Faso,2017,4539688,27395,Não em Epidemia
-Burkina Faso,2018,4541497,26601,Não em Epidemia
-Burkina Faso,2019,4543847,25838,Não em Epidemia
-Burkina Faso,2020,4543274,25086,Não em Epidemia
-Central African Republic,2016,1905460,42569,Não em Epidemia
-Central African Republic,2017,1920871,42777,Não em Epidemia
-Central African Republic,2018,1934725,42997,Não em Epidemia
-Central African Republic,2019,1956126,43321,Não em Epidemia
-Central African Republic,2020,1973618,43413,Não em Epidemia
-Chad,2016,4083209,33227,Não em Epidemia
-Chad,2017,4250815,33457,Não em Epidemia
-Chad,2018,4452590,33902,Não em Epidemia
-Chad,2019,4717872,34768,Epidemia
-Chad,2020,5075434,36229,Epidemia
-Chile,2016,3716450,21666,Não em Epidemia
-Chile,2017,3698179,21365,Não em Epidemia
-Chile,2018,3686239,21109,Não em Epidemia
-Chile,2019,3675375,20866,Não em Epidemia
-Chile,2020,3665184,20634,Não em Epidemia
-China,2016,506771552,37059,Não em Epidemia
-China,2017,510635904,37132,Não em Epidemia
-China,2018,514576896,37213,Não em Epidemia
-China,2019,519452928,37368,Não em Epidemia
-China,2020,525440096,37611,Não em Epidemia
-Colombia,2016,13653050,29420,Não em Epidemia
-Colombia,2017,13616601,29045,Não em Epidemia
-Colombia,2018,13577956,28680,Não em Epidemia
-Colombia,2019,13545245,28342,Não em Epidemia
-Colombia,2020,13512626,28018,Não em Epidemia
-Costa Rica,2016,1205742,26209,Não em Epidemia
-Costa Rica,2017,1207018,25934,Não em Epidemia
-Costa Rica,2018,1208734,25683,Não em Epidemia
-Costa Rica,2019,1210426,25442,Não em Epidemia
-Costa Rica,2020,1212586,25221,Não em Epidemia
-Croatia,2016,844599,19581,Não em Epidemia
-Croatia,2017,828994,19295,Não em Epidemia
-Croatia,2018,815317,19059,Não em Epidemia
-Croatia,2019,804884,18905,Não em Epidemia
-Croatia,2020,797407,18824,Não em Epidemia
-Cuba,2016,2609881,22985,Não em Epidemia
-Cuba,2017,2590596,22760,Não em Epidemia
-Cuba,2018,2576584,22578,Não em Epidemia
-Cuba,2019,2565625,22427,Não em Epidemia
-Cuba,2020,2556626,22306,Não em Epidemia
-Cyprus,2016,139901,12437,Não em Epidemia
-Cyprus,2017,139292,12272,Não em Epidemia
-Cyprus,2018,138858,12139,Não em Epidemia
-Cyprus,2019,138507,12020,Não em Epidemia
-Cyprus,2020,138211,11905,Não em Epidemia
-Denmark,2016,720695,12909,Não em Epidemia
-Denmark,2017,713718,12721,Não em Epidemia
-Denmark,2018,707522,12550,Não em Epidemia
-Denmark,2019,702263,12399,Não em Epidemia
-Denmark,2020,697818,12267,Não em Epidemia
-Djibouti,2016,273616,31598,Não em Epidemia
-Djibouti,2017,271542,30816,Não em Epidemia
-Djibouti,2018,270008,30112,Não em Epidemia
-Djibouti,2019,268605,29447,Não em Epidemia
-Djibouti,2020,267420,28835,Não em Epidemia
-Dominican Republic,2016,2909232,29014,Não em Epidemia
-Dominican Republic,2017,2899264,28550,Não em Epidemia
-Dominican Republic,2018,2890554,28115,Não em Epidemia
-Dominican Republic,2019,2883190,27707,Não em Epidemia
-Dominican Republic,2020,2876442,27321,Não em Epidemia
-Ecuador,2016,3298844,21735,Não em Epidemia
-Ecuador,2017,3296198,21377,Não em Epidemia
-Ecuador,2018,3296252,21047,Não em Epidemia
-Ecuador,2019,3298142,20739,Não em Epidemia
-Ecuador,2020,3300958,20446,Não em Epidemia
-Egypt,2016,30702256,35743,Não em Epidemia
-Egypt,2017,30673808,34931,Não em Epidemia
-Egypt,2018,30707936,34193,Não em Epidemia
-Egypt,2019,30711012,33450,Não em Epidemia
-Egypt,2020,30735844,32775,Não em Epidemia
-Estonia,2016,287397,21634,Não em Epidemia
-Estonia,2017,282510,21323,Não em Epidemia
-Estonia,2018,278578,21079,Não em Epidemia
-Estonia,2019,275202,20875,Não em Epidemia
-Estonia,2020,272684,20731,Não em Epidemia
-Ethiopia,2016,36250280,40257,Não em Epidemia
-Ethiopia,2017,37310832,40360,Não em Epidemia
-Ethiopia,2018,38623688,40705,Não em Epidemia
-Ethiopia,2019,40164060,41250,Epidemia
-Ethiopia,2020,41890624,41944,Epidemia
-Fiji,2016,368744,42527,Não em Epidemia
-Fiji,2017,368761,42212,Não em Epidemia
-Fiji,2018,369718,42027,Não em Epidemia
-Fiji,2019,370751,41855,Não em Epidemia
-Fiji,2020,371964,41693,Não em Epidemia
-France,2016,7791068,12300,Não em Epidemia
-France,2017,7718391,12128,Não em Epidemia
-France,2018,7661914,11987,Não em Epidemia
-France,2019,7609704,11855,Não em Epidemia
-France,2020,7564188,11735,Não em Epidemia
-Gambia,2016,439978,25194,Não em Epidemia
-Gambia,2017,456589,25336,Não em Epidemia
-Gambia,2018,479785,25804,Não em Epidemia
-Gambia,2019,517116,26963,Epidemia
-Gambia,2020,582156,29438,Epidemia
-Georgia,2016,1175853,28189,Não em Epidemia
-Georgia,2017,1156862,28163,Não em Epidemia
-Georgia,2018,1142604,28241,Não em Epidemia
-Georgia,2019,1130402,28314,Não em Epidemia
-Georgia,2020,1119714,28336,Não em Epidemia
-Germany,2016,9920144,12257,Não em Epidemia
-Germany,2017,9863600,12167,Não em Epidemia
-Germany,2018,9809982,12072,Não em Epidemia
-Germany,2019,9765407,11984,Não em Epidemia
-Germany,2020,9727158,11905,Não em Epidemia
-Ghana,2016,8036411,31990,Não em Epidemia
-Ghana,2017,8145768,31655,Não em Epidemia
-Ghana,2018,8272924,31401,Não em Epidemia
-Ghana,2019,8426688,31253,Não em Epidemia
-Ghana,2020,8612702,31225,Não em Epidemia
-Greece,2016,1440303,12609,Não em Epidemia
-Greece,2017,1430093,12569,Não em Epidemia
-Greece,2018,1419817,12541,Não em Epidemia
-Greece,2019,1410394,12520,Não em Epidemia
-Greece,2020,1402453,12502,Não em Epidemia
-Guinea-Bissau,2016,528854,33133,Não em Epidemia
-Guinea-Bissau,2017,532505,32507,Não em Epidemia
-Guinea-Bissau,2018,536525,31908,Não em Epidemia
-Guinea-Bissau,2019,541082,31354,Não em Epidemia
-Guinea-Bissau,2020,546267,30853,Não em Epidemia
-Honduras,2016,3090840,37009,Não em Epidemia
-Honduras,2017,3133577,36841,Não em Epidemia
-Honduras,2018,3184916,36787,Não em Epidemia
-Honduras,2019,3241705,36799,Não em Epidemia
-Honduras,2020,3307133,36907,Não em Epidemia
-India,2016,378258144,30328,Não em Epidemia
-India,2017,379399680,30038,Não em Epidemia
-India,2018,380784768,29782,Não em Epidemia
-India,2019,382239616,29543,Não em Epidemia
-India,2020,383804160,29319,Não em Epidemia
-Ireland,2016,558884,11987,Não em Epidemia
-Ireland,2017,555028,11864,Não em Epidemia
-Ireland,2018,551826,11786,Não em Epidemia
-Ireland,2019,548781,11710,Não em Epidemia
-Ireland,2020,545937,11615,Não em Epidemia
-Israel,2016,961854,12708,Não em Epidemia
-Israel,2017,960443,12475,Não em Epidemia
-Israel,2018,959638,12270,Não em Epidemia
-Israel,2019,958346,12068,Não em Epidemia
-Israel,2020,957566,11874,Não em Epidemia
-Italy,2016,9261310,15498,Não em Epidemia
-Italy,2017,9208711,15416,Não em Epidemia
-Italy,2018,9163554,15358,Não em Epidemia
-Italy,2019,9125773,15315,Não em Epidemia
-Italy,2020,9095433,15285,Não em Epidemia
-Japan,2016,30590852,23805,Não em Epidemia
-Japan,2017,30093828,23433,Não em Epidemia
-Japan,2018,29795478,23221,Não em Epidemia
-Japan,2019,29576282,23077,Não em Epidemia
-Japan,2020,29405006,22977,Não em Epidemia
-Kenya,2016,13772751,32417,Não em Epidemia
-Kenya,2017,13770730,31551,Não em Epidemia
-Kenya,2018,13788932,30760,Não em Epidemia
-Kenya,2019,13846069,30084,Não em Epidemia
-Kenya,2020,13873906,29371,Não em Epidemia
-Kiribati,2016,48543,46384,Não em Epidemia
-Kiribati,2017,48742,45718,Não em Epidemia
-Kiribati,2018,48754,44920,Não em Epidemia
-Kiribati,2019,48780,44162,Não em Epidemia
-Kiribati,2020,48963,43559,Não em Epidemia
-Kuwait,2016,535752,16789,Não em Epidemia
-Kuwait,2017,528964,15578,Não em Epidemia
-Kuwait,2018,523405,14546,Não em Epidemia
-Kuwait,2019,517446,13680,Não em Epidemia
-Kuwait,2020,513205,13039,Não em Epidemia
-Laos,2016,1423535,22476,Não em Epidemia
-Laos,2017,1429727,22287,Não em Epidemia
-Laos,2018,1436462,22118,Não em Epidemia
-Laos,2019,1443847,21955,Não em Epidemia
-Laos,2020,1451990,21789,Não em Epidemia
-Latvia,2016,505788,24172,Não em Epidemia
-Latvia,2017,498683,24133,Não em Epidemia
-Latvia,2018,492593,24137,Não em Epidemia
-Latvia,2019,487450,24178,Não em Epidemia
-Latvia,2020,483684,24273,Não em Epidemia
-Lebanon,2016,891182,19423,Não em Epidemia
-Lebanon,2017,887289,18048,Não em Epidemia
-Lebanon,2018,884616,16766,Não em Epidemia
-Lebanon,2019,881390,15730,Não em Epidemia
-Lebanon,2020,877223,14991,Não em Epidemia
-Lesotho,2016,759144,36777,Não em Epidemia
-Lesotho,2017,770452,36865,Não em Epidemia
-Lesotho,2018,786116,37127,Não em Epidemia
-Lesotho,2019,810217,37759,Epidemia
-Lesotho,2020,849892,39082,Epidemia
-Luxembourg,2016,252497,12232,Não em Epidemia
-Luxembourg,2017,253378,12124,Não em Epidemia
-Luxembourg,2018,254183,12005,Não em Epidemia
-Luxembourg,2019,254923,11880,Não em Epidemia
-Luxembourg,2020,255379,11744,Não em Epidemia
-Malaysia,2016,9926828,34667,Não em Epidemia
-Malaysia,2017,9938224,34069,Não em Epidemia
-Malaysia,2018,9945418,33479,Não em Epidemia
-Malaysia,2019,9961421,32954,Não em Epidemia
-Malaysia,2020,9974437,32466,Não em Epidemia
-Mali,2016,4345707,27963,Não em Epidemia
-Mali,2017,4422646,27630,Não em Epidemia
-Mali,2018,4520784,27436,Não em Epidemia
-Mali,2019,4649162,27408,Não em Epidemia
-Mali,2020,4805458,27510,Não em Epidemia
-Malta,2016,54906,13124,Não em Epidemia
-Malta,2017,54457,12942,Não em Epidemia
-Malta,2018,54104,12783,Não em Epidemia
-Malta,2019,53808,12644,Não em Epidemia
-Malta,2020,53562,12526,Não em Epidemia
-Mexico,2016,39429440,33109,Não em Epidemia
-Mexico,2017,39446524,32647,Não em Epidemia
-Mexico,2018,39517700,32250,Não em Epidemia
-Mexico,2019,39673408,31938,Não em Epidemia
-Mexico,2020,39814628,31626,Não em Epidemia
-Morocco,2016,8622153,26240,Não em Epidemia
-Morocco,2017,8606534,25819,Não em Epidemia
-Morocco,2018,8592053,25402,Não em Epidemia
-Morocco,2019,8579077,24999,Não em Epidemia
-Morocco,2020,8567575,24617,Não em Epidemia
-Nepal,2016,10533310,38545,Não em Epidemia
-Nepal,2017,10480759,37905,Não em Epidemia
-Nepal,2018,10436469,37293,Não em Epidemia
-Nepal,2019,10395796,36704,Não em Epidemia
-Nepal,2020,10360585,36155,Não em Epidemia
-Netherlands,2016,1959367,11707,Não em Epidemia
-Netherlands,2017,1943332,11575,Não em Epidemia
-Netherlands,2018,1930131,11462,Não em Epidemia
-Netherlands,2019,1918783,11361,Não em Epidemia
-Netherlands,2020,1910273,11278,Não em Epidemia
-New Zealand,2016,801882,18149,Não em Epidemia
-New Zealand,2017,800660,17921,Não em Epidemia
-New Zealand,2018,799755,17703,Não em Epidemia
-New Zealand,2019,798967,17495,Não em Epidemia
-New Zealand,2020,798215,17298,Não em Epidemia
-Nigeria,2016,46555524,28583,Não em Epidemia
-Nigeria,2017,46958496,28069,Não em Epidemia
-Nigeria,2018,47449808,27615,Não em Epidemia
-Nigeria,2019,48034916,27221,Não em Epidemia
-Nigeria,2020,48741896,26902,Não em Epidemia
-Norway,2016,620322,12538,Não em Epidemia
-Norway,2017,620700,12384,Não em Epidemia
-Norway,2018,621067,12233,Não em Epidemia
-Norway,2019,621442,12090,Não em Epidemia
-Norway,2020,621756,11957,Não em Epidemia
-Palestine,2016,838945,20076,Não em Epidemia
-Palestine,2017,837734,19505,Não em Epidemia
-Palestine,2018,839969,19027,Não em Epidemia
-Palestine,2019,842027,18557,Não em Epidemia
-Palestine,2020,844566,18113,Não em Epidemia
-Paraguay,2016,1849314,29383,Não em Epidemia
-Paraguay,2017,1867116,29269,Não em Epidemia
-Paraguay,2018,1890503,29239,Não em Epidemia
-Paraguay,2019,1923532,29355,Não em Epidemia
-Paraguay,2020,1970042,29673,Não em Epidemia
-Peru,2016,5965292,20045,Não em Epidemia
-Peru,2017,5925567,19648,Não em Epidemia
-Peru,2018,5895788,19289,Não em Epidemia
-Peru,2019,5873492,18963,Não em Epidemia
-Peru,2020,5854921,18660,Não em Epidemia
-Philippines,2016,39154612,41095,Não em Epidemia
-Philippines,2017,38644404,39894,Não em Epidemia
-Philippines,2018,38225184,38815,Não em Epidemia
-Philippines,2019,37933848,37934,Não em Epidemia
-Philippines,2020,37791912,37154,Não em Epidemia
-Poland,2016,9185028,23969,Não em Epidemia
-Poland,2017,9053755,23628,Não em Epidemia
-Poland,2018,8956167,23378,Não em Epidemia
-Poland,2019,8876893,23181,Não em Epidemia
-Poland,2020,8828167,23071,Não em Epidemia
-Portugal,2016,1386608,13050,Não em Epidemia
-Portugal,2017,1369128,12938,Não em Epidemia
-Portugal,2018,1354549,12867,Não em Epidemia
-Portugal,2019,1342319,12819,Não em Epidemia
-Portugal,2020,1331657,12782,Não em Epidemia
-Qatar,2016,376425,19284,Não em Epidemia
-Qatar,2017,374822,17768,Não em Epidemia
-Qatar,2018,374993,16663,Não em Epidemia
-Qatar,2019,374044,15753,Não em Epidemia
-Qatar,2020,378717,15261,Não em Epidemia
-Romania,2016,4878186,24039,Não em Epidemia
-Romania,2017,4824414,23917,Não em Epidemia
-Romania,2018,4762487,23732,Não em Epidemia
-Romania,2019,4700670,23535,Não em Epidemia
-Romania,2020,4641566,23352,Não em Epidemia
-Russia,2016,38363880,26778,Não em Epidemia
-Russia,2017,37928340,26446,Não em Epidemia
-Russia,2018,37532196,26137,Não em Epidemia
-Russia,2019,37159900,25848,Não em Epidemia
-Russia,2020,36848492,25609,Não em Epidemia
-Sao Tome and Principe,2016,45917,25681,Não em Epidemia
-Sao Tome and Principe,2017,45928,25113,Não em Epidemia
-Sao Tome and Principe,2018,45958,24571,Não em Epidemia
-Sao Tome and Principe,2019,45993,24047,Não em Epidemia
-Sao Tome and Principe,2020,46034,23540,Não em Epidemia
-Saudi Arabia,2016,7071246,25042,Não em Epidemia
-Saudi Arabia,2017,7156606,24605,Não em Epidemia
-Saudi Arabia,2018,7246094,24198,Não em Epidemia
-Saudi Arabia,2019,7343698,23861,Não em Epidemia
-Saudi Arabia,2020,7452955,23617,Não em Epidemia
-Senegal,2016,3725485,28009,Não em Epidemia
-Senegal,2017,3762355,27455,Não em Epidemia
-Senegal,2018,3803928,26939,Não em Epidemia
-Senegal,2019,3852764,26487,Não em Epidemia
-Senegal,2020,3909321,26102,Não em Epidemia
-Sierra Leone,2016,1935055,29267,Não em Epidemia
-Sierra Leone,2017,1969287,29105,Não em Epidemia
-Sierra Leone,2018,2015853,29122,Não em Epidemia
-Sierra Leone,2019,2074700,29307,Não em Epidemia
-Sierra Leone,2020,2151795,29733,Não em Epidemia
-Singapore,2016,1301388,25143,Não em Epidemia
-Singapore,2017,1297252,24611,Não em Epidemia
-Singapore,2018,1294230,24142,Não em Epidemia
-Singapore,2019,1291462,23704,Não em Epidemia
-Singapore,2020,1289186,23290,Não em Epidemia
-Slovakia,2016,1200150,22185,Não em Epidemia
-Slovakia,2017,1186164,21897,Não em Epidemia
-Slovakia,2018,1175912,21675,Não em Epidemia
-Slovakia,2019,1167552,21491,Não em Epidemia
-Slovakia,2020,1160672,21339,Não em Epidemia
-Slovenia,2016,360299,17546,Não em Epidemia
-Slovenia,2017,355339,17246,Não em Epidemia
-Slovenia,2018,351489,17012,Não em Epidemia
-Slovenia,2019,348428,16825,Não em Epidemia
-Slovenia,2020,345928,16673,Não em Epidemia
-South Africa,2016,26832570,51341,Não em Epidemia
-South Africa,2017,27264076,51443,Não em Epidemia
-South Africa,2018,27879064,51851,Epidemia
-South Africa,2019,28463322,52188,Epidemia
-South Africa,2020,29068908,52574,Epidemia
-South Korea,2016,11788211,23697,Não em Epidemia
-South Korea,2017,11618474,23259,Não em Epidemia
-South Korea,2018,11487420,22897,Não em Epidemia
-South Korea,2019,11388288,22602,Não em Epidemia
-South Korea,2020,11311117,22357,Não em Epidemia
-Spain,2016,3164582,6746,Não em Epidemia
-Spain,2017,3139815,6701,Não em Epidemia
-Spain,2018,3118295,6678,Não em Epidemia
-Spain,2019,3100651,6665,Não em Epidemia
-Spain,2020,3084181,6647,Não em Epidemia
-Suriname,2016,169300,31848,Não em Epidemia
-Suriname,2017,169043,31475,Não em Epidemia
-Suriname,2018,168873,31126,Não em Epidemia
-Suriname,2019,168718,30792,Não em Epidemia
-Suriname,2020,168563,30470,Não em Epidemia
-Sweden,2016,1988667,21009,Não em Epidemia
-Sweden,2017,1996402,20925,Não em Epidemia
-Sweden,2018,2006660,20870,Não em Epidemia
-Sweden,2019,2018953,20837,Não em Epidemia
-Sweden,2020,2035099,20844,Não em Epidemia
-Switzerland,2016,911010,11488,Não em Epidemia
-Switzerland,2017,910057,11331,Não em Epidemia
-Switzerland,2018,909074,11178,Não em Epidemia
-Switzerland,2019,908187,11036,Não em Epidemia
-Switzerland,2020,907447,10907,Não em Epidemia
-Tanzania,2016,10425897,21917,Não em Epidemia
-Tanzania,2017,10455634,21302,Não em Epidemia
-Tanzania,2018,10495533,20727,Não em Epidemia
-Tanzania,2019,10540485,20179,Não em Epidemia
-Tanzania,2020,10582488,19641,Não em Epidemia
-Thailand,2016,22280208,32993,Não em Epidemia
-Thailand,2017,22203688,32728,Não em Epidemia
-Thailand,2018,22113420,32451,Não em Epidemia
-Thailand,2019,22025740,32193,Não em Epidemia
-Thailand,2020,21948582,31968,Não em Epidemia
-Togo,2016,1987754,29760,Não em Epidemia
-Togo,2017,2004592,29224,Não em Epidemia
-Togo,2018,2024918,28751,Não em Epidemia
-Togo,2019,2048452,28337,Não em Epidemia
-Togo,2020,2076744,28001,Não em Epidemia
-Turkey,2016,19500536,26564,Não em Epidemia
-Turkey,2017,19460012,26096,Não em Epidemia
-Turkey,2018,19433716,25642,Não em Epidemia
-Turkey,2019,19410560,25198,Não em Epidemia
-Turkey,2020,19390558,24773,Não em Epidemia
-Uganda,2016,15909931,45336,Não em Epidemia
-Uganda,2017,15961603,43963,Não em Epidemia
-Uganda,2018,16080193,42819,Não em Epidemia
-Uganda,2019,16252732,41853,Não em Epidemia
-Uganda,2020,16434775,40939,Não em Epidemia
-Ukraine,2016,12781707,28045,Não em Epidemia
-Ukraine,2017,12638779,27870,Não em Epidemia
-Ukraine,2018,12505697,27719,Não em Epidemia
-Ukraine,2019,12396875,27620,Não em Epidemia
-Ukraine,2020,12331291,27613,Não em Epidemia
-United Arab Emirates,2016,3710516,42785,Não em Epidemia
-United Arab Emirates,2017,4310704,48432,Não em Epidemia
-United Arab Emirates,2018,5117882,56826,Epidemia
-United Arab Emirates,2019,6201375,68366,Epidemia
-United Arab Emirates,2020,7744318,84598,Epidemia
-United Kingdom,2016,8639349,13539,Não em Epidemia
-United Kingdom,2017,8586701,13364,Não em Epidemia
-United Kingdom,2018,8548669,13225,Não em Epidemia
-United Kingdom,2019,8517548,13101,Não em Epidemia
-United Kingdom,2020,8489593,12982,Não em Epidemia
-United States,2016,51642592,16603,Não em Epidemia
-United States,2017,51527132,16445,Não em Epidemia
-United States,2018,51435900,16301,Não em Epidemia
-United States,2019,51356540,16164,Não em Epidemia
-United States,2020,51281956,16029,Não em Epidemia
-Uzbekistan,2016,9182391,31589,Não em Epidemia
-Uzbekistan,2017,9206956,31167,Não em Epidemia
-Uzbekistan,2018,9243057,30790,Não em Epidemia
-Uzbekistan,2019,9284757,30442,Não em Epidemia
-Uzbekistan,2020,9331770,30126,Não em Epidemia
-Zimbabwe,2016,3104843,21581,Não em Epidemia
-Zimbabwe,2017,3147764,21398,Não em Epidemia
-Zimbabwe,2018,3203354,21278,Não em Epidemia
-Zimbabwe,2019,3275826,21255,Não em Epidemia
-Zimbabwe,2020,3372239,21374,Não em Epidemia
+Local,Ano,Previsão de Casos,Limiar Epidêmico,Taxa de Incidência (por 100k hab),Status de Epidemia
+Albania,2016,655518,28369.55817824759,21462,Não em Epidemia
+Albania,2017,652753,28369.55817824759,21586,Não em Epidemia
+Albania,2018,650375,28369.55817824759,21740,Não em Epidemia
+Albania,2019,648119,28369.55817824759,21876,Não em Epidemia
+Albania,2020,646635,28369.55817824759,21990,Não em Epidemia
+Albania,2021,645528,28369.55817824759,22057,Não em Epidemia
+Albania,2022,645422,28369.55817824759,22103,Não em Epidemia
+Albania,2023,645336,28369.55817824759,22108,Não em Epidemia
+Albania,2024,645285,28369.55817824759,22093,Não em Epidemia
+Albania,2025,645260,28369.55817824759,22073,Não em Epidemia
+Algeria,2016,5996119,17062.034183605807,17752,Epidemia
+Algeria,2017,5991646,17062.034183605807,17468,Epidemia
+Algeria,2018,5987350,17062.034183605807,17175,Epidemia
+Algeria,2019,5983404,17062.034183605807,16871,Não em Epidemia
+Algeria,2020,5979746,17062.034183605807,16556,Não em Epidemia
+Algeria,2021,5976218,17062.034183605807,16231,Não em Epidemia
+Algeria,2022,5974338,17062.034183605807,15904,Não em Epidemia
+Algeria,2023,5972835,17062.034183605807,15579,Não em Epidemia
+Algeria,2024,5971650,17062.034183605807,15268,Não em Epidemia
+Algeria,2025,5970744,17062.034183605807,14975,Não em Epidemia
+Argentina,2016,10259650,25481.300974537946,25935,Epidemia
+Argentina,2017,10265554,25481.300974537946,25683,Epidemia
+Argentina,2018,10271502,25481.300974537946,25436,Não em Epidemia
+Argentina,2019,10277627,25481.300974537946,25191,Não em Epidemia
+Argentina,2020,10284351,25481.300974537946,24948,Não em Epidemia
+Argentina,2021,10292790,25481.300974537946,24709,Não em Epidemia
+Argentina,2022,10300338,25481.300974537946,24468,Não em Epidemia
+Argentina,2023,10308186,25481.300974537946,24232,Não em Epidemia
+Argentina,2024,10316446,25481.300974537946,24002,Não em Epidemia
+Argentina,2025,10325192,25481.300974537946,23781,Não em Epidemia
+Armenia,2016,756378,31243.58532533359,25566,Não em Epidemia
+Armenia,2017,749416,31243.58532533359,25551,Não em Epidemia
+Armenia,2018,743302,31243.58532533359,25559,Não em Epidemia
+Armenia,2019,738135,31243.58532533359,25554,Não em Epidemia
+Armenia,2020,734384,31243.58532533359,25523,Não em Epidemia
+Armenia,2021,731133,31243.58532533359,25426,Não em Epidemia
+Armenia,2022,730483,31243.58532533359,25347,Não em Epidemia
+Armenia,2023,730106,31243.58532533359,25233,Não em Epidemia
+Armenia,2024,729910,31243.58532533359,25115,Não em Epidemia
+Armenia,2025,729779,31243.58532533359,25019,Não em Epidemia
+Austria,2016,1033226,13389.968615589478,12471,Não em Epidemia
+Austria,2017,1028329,13389.968615589478,12372,Não em Epidemia
+Austria,2018,1024674,13389.968615589478,12289,Não em Epidemia
+Austria,2019,1021686,13389.968615589478,12206,Não em Epidemia
+Austria,2020,1019144,13389.968615589478,12118,Não em Epidemia
+Austria,2021,1017060,13389.968615589478,12022,Não em Epidemia
+Austria,2022,1016566,13389.968615589478,11935,Não em Epidemia
+Austria,2023,1016231,13389.968615589478,11847,Não em Epidemia
+Austria,2024,1016036,13389.968615589478,11769,Não em Epidemia
+Austria,2025,1015934,13389.968615589478,11706,Não em Epidemia
+Bahrain,2016,262940,23748.12828575594,27435,Epidemia
+Bahrain,2017,275296,23748.12828575594,26576,Epidemia
+Bahrain,2018,291313,23748.12828575594,26136,Epidemia
+Bahrain,2019,310384,23748.12828575594,26192,Epidemia
+Bahrain,2020,334654,23748.12828575594,26969,Epidemia
+Bahrain,2021,362850,23748.12828575594,28386,Epidemia
+Bahrain,2022,391053,23748.12828575594,30076,Epidemia
+Bahrain,2023,422820,23748.12828575594,32144,Epidemia
+Bahrain,2024,457801,23748.12828575594,34256,Epidemia
+Bahrain,2025,495947,23748.12828575594,36152,Epidemia
+Bangladesh,2016,26030046,19755.88274821834,17906,Não em Epidemia
+Bangladesh,2017,25701052,19755.88274821834,17467,Não em Epidemia
+Bangladesh,2018,25453418,19755.88274821834,17105,Não em Epidemia
+Bangladesh,2019,25246316,19755.88274821834,16780,Não em Epidemia
+Bangladesh,2020,25059944,19755.88274821834,16471,Não em Epidemia
+Bangladesh,2021,24895682,19755.88274821834,16175,Não em Epidemia
+Bangladesh,2022,24840718,19755.88274821834,15951,Não em Epidemia
+Bangladesh,2023,24803262,19755.88274821834,15741,Não em Epidemia
+Bangladesh,2024,24777706,19755.88274821834,15544,Não em Epidemia
+Bangladesh,2025,24761022,19755.88274821834,15360,Não em Epidemia
+Belgium,2016,1364144,13777.8564041923,12846,Não em Epidemia
+Belgium,2017,1359259,13777.8564041923,12706,Não em Epidemia
+Belgium,2018,1355476,13777.8564041923,12575,Não em Epidemia
+Belgium,2019,1351991,13777.8564041923,12449,Não em Epidemia
+Belgium,2020,1348961,13777.8564041923,12332,Não em Epidemia
+Belgium,2021,1346234,13777.8564041923,12224,Não em Epidemia
+Belgium,2022,1345817,13777.8564041923,12142,Não em Epidemia
+Belgium,2023,1345546,13777.8564041923,12066,Não em Epidemia
+Belgium,2024,1345336,13777.8564041923,11991,Não em Epidemia
+Belgium,2025,1345200,13777.8564041923,11917,Não em Epidemia
+Benin,2016,2615726,29623.12725560487,31834,Epidemia
+Benin,2017,2629151,29623.12725560487,31097,Epidemia
+Benin,2018,2639818,29623.12725560487,30354,Epidemia
+Benin,2019,2651121,29623.12725560487,29639,Epidemia
+Benin,2020,2662398,29623.12725560487,28941,Não em Epidemia
+Benin,2021,2673956,29623.12725560487,28264,Não em Epidemia
+Benin,2022,2685796,29623.12725560487,27606,Não em Epidemia
+Benin,2023,2697650,29623.12725560487,26964,Não em Epidemia
+Benin,2024,2709757,29623.12725560487,26342,Não em Epidemia
+Benin,2025,2722088,29623.12725560487,25738,Não em Epidemia
+Bhutan,2016,85584,12850.870995142657,12731,Não em Epidemia
+Bhutan,2017,85400,12850.870995142657,12432,Não em Epidemia
+Bhutan,2018,85246,12850.870995142657,12161,Não em Epidemia
+Bhutan,2019,85117,12850.870995142657,11913,Não em Epidemia
+Bhutan,2020,85008,12850.870995142657,11683,Não em Epidemia
+Bhutan,2021,84924,12850.870995142657,11468,Não em Epidemia
+Bhutan,2022,84907,12850.870995142657,11276,Não em Epidemia
+Bhutan,2023,84895,12850.870995142657,11098,Não em Epidemia
+Bhutan,2024,84887,12850.870995142657,10933,Não em Epidemia
+Bhutan,2025,84882,12850.870995142657,10780,Não em Epidemia
+Bosnia and Herzegovina,2016,833070,28884.198448300594,22042,Não em Epidemia
+Bosnia and Herzegovina,2017,825956,28884.198448300594,21885,Não em Epidemia
+Bosnia and Herzegovina,2018,820222,28884.198448300594,21794,Não em Epidemia
+Bosnia and Herzegovina,2019,815285,28884.198448300594,21761,Não em Epidemia
+Bosnia and Herzegovina,2020,811296,28884.198448300594,21797,Não em Epidemia
+Bosnia and Herzegovina,2021,808202,28884.198448300594,21909,Não em Epidemia
+Bosnia and Herzegovina,2022,807581,28884.198448300594,22136,Não em Epidemia
+Bosnia and Herzegovina,2023,807184,28884.198448300594,22391,Não em Epidemia
+Bosnia and Herzegovina,2024,806922,28884.198448300594,22628,Não em Epidemia
+Bosnia and Herzegovina,2025,806761,28884.198448300594,22816,Não em Epidemia
+Brazil,2016,64664728,33747.80861159504,34212,Epidemia
+Brazil,2017,64828008,33747.80861159504,33937,Epidemia
+Brazil,2018,65060960,33747.80861159504,33714,Não em Epidemia
+Brazil,2019,65341640,33747.80861159504,33526,Não em Epidemia
+Brazil,2020,65678472,33747.80861159504,33374,Não em Epidemia
+Brazil,2021,66074648,33747.80861159504,33256,Não em Epidemia
+Brazil,2022,66486516,33747.80861159504,33150,Não em Epidemia
+Brazil,2023,66970272,33747.80861159504,33087,Não em Epidemia
+Brazil,2024,67538664,33747.80861159504,33073,Não em Epidemia
+Brazil,2025,68214936,33747.80861159504,33120,Não em Epidemia
+Bulgaria,2016,1838704,32550.802957333413,24114,Não em Epidemia
+Bulgaria,2017,1821338,32550.802957333413,24070,Não em Epidemia
+Bulgaria,2018,1801777,32550.802957333413,23991,Não em Epidemia
+Bulgaria,2019,1785495,32550.802957333413,23947,Não em Epidemia
+Bulgaria,2020,1771783,32550.802957333413,23928,Não em Epidemia
+Bulgaria,2021,1759393,32550.802957333413,23917,Não em Epidemia
+Bulgaria,2022,1757422,32550.802957333413,24040,Não em Epidemia
+Bulgaria,2023,1755833,32550.802957333413,24165,Não em Epidemia
+Bulgaria,2024,1754625,32550.802957333413,24295,Não em Epidemia
+Bulgaria,2025,1753938,32550.802957333413,24437,Não em Epidemia
+Burkina Faso,2016,4622854,31028.427570113825,33428,Epidemia
+Burkina Faso,2017,4649162,31028.427570113825,32621,Epidemia
+Burkina Faso,2018,4670892,31028.427570113825,31797,Epidemia
+Burkina Faso,2019,4692652,31028.427570113825,30993,Não em Epidemia
+Burkina Faso,2020,4714497,31028.427570113825,30211,Não em Epidemia
+Burkina Faso,2021,4737067,31028.427570113825,29456,Não em Epidemia
+Burkina Faso,2022,4759938,31028.427570113825,28724,Não em Epidemia
+Burkina Faso,2023,4782762,31028.427570113825,28014,Não em Epidemia
+Burkina Faso,2024,4805940,31028.427570113825,27328,Não em Epidemia
+Burkina Faso,2025,4829620,31028.427570113825,26667,Não em Epidemia
+Central African Republic,2016,1897962,44596.53801101493,45171,Epidemia
+Central African Republic,2017,1911417,44596.53801101493,44703,Epidemia
+Central African Republic,2018,1925392,44596.53801101493,44309,Não em Epidemia
+Central African Republic,2019,1947706,44596.53801101493,44224,Não em Epidemia
+Central African Republic,2020,1966959,44596.53801101493,44216,Não em Epidemia
+Central African Republic,2021,1988821,44596.53801101493,44431,Não em Epidemia
+Central African Republic,2022,2011177,44596.53801101493,44788,Epidemia
+Central African Republic,2023,2035618,44596.53801101493,45239,Epidemia
+Central African Republic,2024,2062516,44596.53801101493,45677,Epidemia
+Central African Republic,2025,2091492,44596.53801101493,46006,Epidemia
+Chad,2016,3945188,33977.837065112355,37856,Epidemia
+Chad,2017,4050381,33977.837065112355,37588,Epidemia
+Chad,2018,4184570,33977.837065112355,37584,Epidemia
+Chad,2019,4352304,33977.837065112355,37837,Epidemia
+Chad,2020,4559318,33977.837065112355,38355,Epidemia
+Chad,2021,4815105,33977.837065112355,39183,Epidemia
+Chad,2022,5115164,33977.837065112355,40261,Epidemia
+Chad,2023,5491033,33977.837065112355,41809,Epidemia
+Chad,2024,5973666,33977.837065112355,44023,Epidemia
+Chad,2025,6614468,33977.837065112355,47214,Epidemia
+Chile,2016,3650820,23361.361960888513,22371,Não em Epidemia
+Chile,2017,3644040,23361.361960888513,22096,Não em Epidemia
+Chile,2018,3639406,23361.361960888513,21843,Não em Epidemia
+Chile,2019,3635478,23361.361960888513,21602,Não em Epidemia
+Chile,2020,3631936,23361.361960888513,21373,Não em Epidemia
+Chile,2021,3628922,23361.361960888513,21156,Não em Epidemia
+Chile,2022,3628567,23361.361960888513,20963,Não em Epidemia
+Chile,2023,3628346,23361.361960888513,20777,Não em Epidemia
+Chile,2024,3628210,23361.361960888513,20599,Não em Epidemia
+Chile,2025,3628125,23361.361960888513,20426,Não em Epidemia
+China,2016,499965984,37971.74443052085,37614,Não em Epidemia
+China,2017,500602112,37971.74443052085,37448,Não em Epidemia
+China,2018,501269440,37971.74443052085,37285,Não em Epidemia
+China,2019,502120096,37971.74443052085,37137,Não em Epidemia
+China,2020,503095808,37971.74443052085,36999,Não em Epidemia
+China,2021,504145856,37971.74443052085,36867,Não em Epidemia
+China,2022,504954816,37971.74443052085,36719,Não em Epidemia
+China,2023,505755840,37971.74443052085,36575,Não em Epidemia
+China,2024,506549088,37971.74443052085,36439,Não em Epidemia
+China,2025,507320672,37971.74443052085,36314,Não em Epidemia
+Colombia,2016,13377173,31696.858713993228,30517,Não em Epidemia
+Colombia,2017,13355001,31696.858713993228,30096,Não em Epidemia
+Colombia,2018,13335255,31696.858713993228,29699,Não em Epidemia
+Colombia,2019,13319467,31696.858713993228,29328,Não em Epidemia
+Colombia,2020,13305549,31696.858713993228,28977,Não em Epidemia
+Colombia,2021,13294266,31696.858713993228,28647,Não em Epidemia
+Colombia,2022,13292556,31696.858713993228,28354,Não em Epidemia
+Colombia,2023,13291415,31696.858713993228,28075,Não em Epidemia
+Colombia,2024,13290562,31696.858713993228,27809,Não em Epidemia
+Colombia,2025,13289966,31696.858713993228,27556,Não em Epidemia
+Costa Rica,2016,1190132,27433.86995474404,27621,Epidemia
+Costa Rica,2017,1188938,27433.86995474404,27210,Não em Epidemia
+Costa Rica,2018,1187960,27433.86995474404,26819,Não em Epidemia
+Costa Rica,2019,1187077,27433.86995474404,26448,Não em Epidemia
+Costa Rica,2020,1186329,27433.86995474404,26100,Não em Epidemia
+Costa Rica,2021,1185612,27433.86995474404,25772,Não em Epidemia
+Costa Rica,2022,1185361,27433.86995474404,25469,Não em Epidemia
+Costa Rica,2023,1185178,27433.86995474404,25182,Não em Epidemia
+Costa Rica,2024,1185046,27433.86995474404,24909,Não em Epidemia
+Costa Rica,2025,1184953,27433.86995474404,24646,Não em Epidemia
+Croatia,2016,842870,23969.003421542413,19285,Não em Epidemia
+Croatia,2017,826320,23969.003421542413,18942,Não em Epidemia
+Croatia,2018,813977,23969.003421542413,18702,Não em Epidemia
+Croatia,2019,803586,23969.003421542413,18511,Não em Epidemia
+Croatia,2020,795629,23969.003421542413,18383,Não em Epidemia
+Croatia,2021,788924,23969.003421542413,18290,Não em Epidemia
+Croatia,2022,786685,23969.003421542413,18310,Não em Epidemia
+Croatia,2023,785101,23969.003421542413,18353,Não em Epidemia
+Croatia,2024,784077,23969.003421542413,18416,Não em Epidemia
+Croatia,2025,783448,23969.003421542413,18495,Não em Epidemia
+Cuba,2016,2587077,25648.119589907288,22902,Não em Epidemia
+Cuba,2017,2573808,25648.119589907288,22770,Não em Epidemia
+Cuba,2018,2562431,25648.119589907288,22657,Não em Epidemia
+Cuba,2019,2552057,25648.119589907288,22547,Não em Epidemia
+Cuba,2020,2542893,25648.119589907288,22438,Não em Epidemia
+Cuba,2021,2535694,25648.119589907288,22332,Não em Epidemia
+Cuba,2022,2534038,25648.119589907288,22263,Não em Epidemia
+Cuba,2023,2532805,25648.119589907288,22194,Não em Epidemia
+Cuba,2024,2531916,25648.119589907288,22133,Não em Epidemia
+Cuba,2025,2531346,25648.119589907288,22086,Não em Epidemia
+Cyprus,2016,141060,13857.21369483113,13492,Não em Epidemia
+Cyprus,2017,140166,13857.21369483113,13177,Não em Epidemia
+Cyprus,2018,139436,13857.21369483113,12892,Não em Epidemia
+Cyprus,2019,138882,13857.21369483113,12648,Não em Epidemia
+Cyprus,2020,138458,13857.21369483113,12444,Não em Epidemia
+Cyprus,2021,138123,13857.21369483113,12279,Não em Epidemia
+Cyprus,2022,138050,13857.21369483113,12162,Não em Epidemia
+Cyprus,2023,138008,13857.21369483113,12065,Não em Epidemia
+Cyprus,2024,137984,13857.21369483113,11975,Não em Epidemia
+Cyprus,2025,137971,13857.21369483113,11884,Não em Epidemia
+Denmark,2016,705793,14496.72144494384,12964,Não em Epidemia
+Denmark,2017,701050,14496.72144494384,12816,Não em Epidemia
+Denmark,2018,696570,14496.72144494384,12670,Não em Epidemia
+Denmark,2019,692847,14496.72144494384,12537,Não em Epidemia
+Denmark,2020,689796,14496.72144494384,12418,Não em Epidemia
+Denmark,2021,687235,14496.72144494384,12310,Não em Epidemia
+Denmark,2022,686669,14496.72144494384,12239,Não em Epidemia
+Denmark,2023,686289,14496.72144494384,12173,Não em Epidemia
+Denmark,2024,686036,14496.72144494384,12112,Não em Epidemia
+Denmark,2025,685849,14496.72144494384,12056,Não em Epidemia
+Albania,2016,668017,28369.55817824759,21871,Não em Epidemia
+Albania,2017,662034,28369.55817824759,21893,Não em Epidemia
+Albania,2018,658385,28369.55817824759,22007,Não em Epidemia
+Albania,2019,654714,28369.55817824759,22099,Não em Epidemia
+Albania,2020,651199,28369.55817824759,22146,Não em Epidemia
+Albania,2021,648159,28369.55817824759,22147,Não em Epidemia
+Albania,2022,647687,28369.55817824759,22181,Não em Epidemia
+Albania,2023,647345,28369.55817824759,22177,Não em Epidemia
+Albania,2024,647076,28369.55817824759,22154,Não em Epidemia
+Albania,2025,646894,28369.55817824759,22128,Não em Epidemia
+Algeria,2016,5996969,17062.034183605807,17754,Epidemia
+Algeria,2017,5991718,17062.034183605807,17469,Epidemia
+Algeria,2018,5987210,17062.034183605807,17175,Epidemia
+Algeria,2019,5983084,17062.034183605807,16870,Não em Epidemia
+Algeria,2020,5979280,17062.034183605807,16555,Não em Epidemia
+Algeria,2021,5975768,17062.034183605807,16230,Não em Epidemia
+Algeria,2022,5973940,17062.034183605807,15903,Não em Epidemia
+Algeria,2023,5972502,17062.034183605807,15578,Não em Epidemia
+Algeria,2024,5971368,17062.034183605807,15267,Não em Epidemia
+Algeria,2025,5970497,17062.034183605807,14974,Não em Epidemia
+Argentina,2016,10270795,25481.300974537946,25963,Epidemia
+Argentina,2017,10280588,25481.300974537946,25721,Epidemia
+Argentina,2018,10291387,25481.300974537946,25485,Epidemia
+Argentina,2019,10302395,25481.300974537946,25251,Não em Epidemia
+Argentina,2020,10314717,25481.300974537946,25021,Não em Epidemia
+Argentina,2021,10328800,25481.300974537946,24795,Não em Epidemia
+Argentina,2022,10343868,25481.300974537946,24572,Não em Epidemia
+Argentina,2023,10360743,25481.300974537946,24355,Não em Epidemia
+Argentina,2024,10379758,25481.300974537946,24149,Não em Epidemia
+Argentina,2025,10401478,25481.300974537946,23957,Não em Epidemia
+Armenia,2016,750007,31243.58532533359,25351,Não em Epidemia
+Armenia,2017,744389,31243.58532533359,25379,Não em Epidemia
+Armenia,2018,740471,31243.58532533359,25461,Não em Epidemia
+Armenia,2019,737016,31243.58532533359,25515,Não em Epidemia
+Armenia,2020,733928,31243.58532533359,25507,Não em Epidemia
+Armenia,2021,731385,31243.58532533359,25434,Não em Epidemia
+Armenia,2022,730835,31243.58532533359,25359,Não em Epidemia
+Armenia,2023,730493,31243.58532533359,25246,Não em Epidemia
+Armenia,2024,730261,31243.58532533359,25128,Não em Epidemia
+Armenia,2025,730121,31243.58532533359,25030,Não em Epidemia
+Austria,2016,1041937,13389.968615589478,12577,Não em Epidemia
+Austria,2017,1034890,13389.968615589478,12451,Não em Epidemia
+Austria,2018,1029855,13389.968615589478,12351,Não em Epidemia
+Austria,2019,1025371,13389.968615589478,12250,Não em Epidemia
+Austria,2020,1021551,13389.968615589478,12147,Não em Epidemia
+Austria,2021,1018877,13389.968615589478,12044,Não em Epidemia
+Austria,2022,1017966,13389.968615589478,11951,Não em Epidemia
+Austria,2023,1017323,13389.968615589478,11860,Não em Epidemia
+Austria,2024,1016870,13389.968615589478,11779,Não em Epidemia
+Austria,2025,1016586,13389.968615589478,11714,Não em Epidemia
+Bahrain,2016,248827,23748.12828575594,25962,Epidemia
+Bahrain,2017,253159,23748.12828575594,24439,Epidemia
+Bahrain,2018,255659,23748.12828575594,22938,Não em Epidemia
+Bahrain,2019,258277,23748.12828575594,21795,Não em Epidemia
+Bahrain,2020,261406,23748.12828575594,21066,Não em Epidemia
+Bahrain,2021,264267,23748.12828575594,20674,Não em Epidemia
+Bahrain,2022,267279,23748.12828575594,20556,Não em Epidemia
+Bahrain,2023,270223,23748.12828575594,20543,Não em Epidemia
+Bahrain,2024,273222,23748.12828575594,20445,Não em Epidemia
+Bahrain,2025,276280,23748.12828575594,20139,Não em Epidemia
+Bangladesh,2016,25668472,19755.88274821834,17658,Não em Epidemia
+Bangladesh,2017,25365882,19755.88274821834,17239,Não em Epidemia
+Bangladesh,2018,25142414,19755.88274821834,16896,Não em Epidemia
+Bangladesh,2019,24976228,19755.88274821834,16600,Não em Epidemia
+Bangladesh,2020,24854172,19755.88274821834,16335,Não em Epidemia
+Bangladesh,2021,24762494,19755.88274821834,16089,Não em Epidemia
+Bangladesh,2022,24733736,19755.88274821834,15883,Não em Epidemia
+Bangladesh,2023,24715542,19755.88274821834,15685,Não em Epidemia
+Bangladesh,2024,24705184,19755.88274821834,15498,Não em Epidemia
+Bangladesh,2025,24699120,19755.88274821834,15322,Não em Epidemia
+Belgium,2016,1357534,13777.8564041923,12783,Não em Epidemia
+Belgium,2017,1353378,13777.8564041923,12651,Não em Epidemia
+Belgium,2018,1350589,13777.8564041923,12530,Não em Epidemia
+Belgium,2019,1348178,13777.8564041923,12414,Não em Epidemia
+Belgium,2020,1346595,13777.8564041923,12310,Não em Epidemia
+Belgium,2021,1345406,13777.8564041923,12216,Não em Epidemia
+Belgium,2022,1345198,13777.8564041923,12137,Não em Epidemia
+Belgium,2023,1345056,13777.8564041923,12062,Não em Epidemia
+Belgium,2024,1344972,13777.8564041923,11988,Não em Epidemia
+Belgium,2025,1344922,13777.8564041923,11915,Não em Epidemia
+Benin,2016,2625216,29623.12725560487,31949,Epidemia
+Benin,2017,2652249,29623.12725560487,31370,Epidemia
+Benin,2018,2675646,29623.12725560487,30765,Epidemia
+Benin,2019,2702131,29623.12725560487,30209,Epidemia
+Benin,2020,2731388,29623.12725560487,29691,Epidemia
+Benin,2021,2761942,29623.12725560487,29194,Não em Epidemia
+Benin,2022,2792526,29623.12725560487,28703,Não em Epidemia
+Benin,2023,2823898,29623.12725560487,28226,Não em Epidemia
+Benin,2024,2856351,29623.12725560487,27767,Não em Epidemia
+Benin,2025,2889654,29623.12725560487,27323,Não em Epidemia
+Bhutan,2016,85157,12850.870995142657,12668,Não em Epidemia
+Bhutan,2017,85061,12850.870995142657,12382,Não em Epidemia
+Bhutan,2018,84997,12850.870995142657,12126,Não em Epidemia
+Bhutan,2019,84946,12850.870995142657,11890,Não em Epidemia
+Bhutan,2020,84906,12850.870995142657,11669,Não em Epidemia
+Bhutan,2021,84868,12850.870995142657,11461,Não em Epidemia
+Bhutan,2022,84864,12850.870995142657,11271,Não em Epidemia
+Bhutan,2023,84862,12850.870995142657,11094,Não em Epidemia
+Bhutan,2024,84860,12850.870995142657,10929,Não em Epidemia
+Bhutan,2025,84859,12850.870995142657,10777,Não em Epidemia
+Bosnia and Herzegovina,2016,844003,28884.198448300594,22331,Não em Epidemia
+Bosnia and Herzegovina,2017,836934,28884.198448300594,22176,Não em Epidemia
+Bosnia and Herzegovina,2018,827984,28884.198448300594,22000,Não em Epidemia
+Bosnia and Herzegovina,2019,820529,28884.198448300594,21901,Não em Epidemia
+Bosnia and Herzegovina,2020,814405,28884.198448300594,21880,Não em Epidemia
+Bosnia and Herzegovina,2021,809782,28884.198448300594,21952,Não em Epidemia
+Bosnia and Herzegovina,2022,808770,28884.198448300594,22169,Não em Epidemia
+Bosnia and Herzegovina,2023,808012,28884.198448300594,22414,Não em Epidemia
+Bosnia and Herzegovina,2024,807460,28884.198448300594,22643,Não em Epidemia
+Bosnia and Herzegovina,2025,807073,28884.198448300594,22825,Não em Epidemia
+Brazil,2016,64272284,33747.80861159504,34004,Epidemia
+Brazil,2017,64363860,33747.80861159504,33694,Não em Epidemia
+Brazil,2018,64532748,33747.80861159504,33440,Não em Epidemia
+Brazil,2019,64709204,33747.80861159504,33202,Não em Epidemia
+Brazil,2020,64949032,33747.80861159504,33003,Não em Epidemia
+Brazil,2021,65204304,33747.80861159504,32818,Não em Epidemia
+Brazil,2022,65484296,33747.80861159504,32651,Não em Epidemia
+Brazil,2023,65817768,33747.80861159504,32517,Não em Epidemia
+Brazil,2024,66214504,33747.80861159504,32424,Não em Epidemia
+Brazil,2025,66699100,33747.80861159504,32384,Não em Epidemia
+Bulgaria,2016,1849534,32550.802957333413,24256,Não em Epidemia
+Bulgaria,2017,1824085,32550.802957333413,24106,Não em Epidemia
+Bulgaria,2018,1803172,32550.802957333413,24009,Não em Epidemia
+Bulgaria,2019,1786085,32550.802957333413,23955,Não em Epidemia
+Bulgaria,2020,1774128,32550.802957333413,23960,Não em Epidemia
+Bulgaria,2021,1762346,32550.802957333413,23957,Não em Epidemia
+Bulgaria,2022,1759733,32550.802957333413,24072,Não em Epidemia
+Bulgaria,2023,1757828,32550.802957333413,24192,Não em Epidemia
+Bulgaria,2024,1756563,32550.802957333413,24322,Não em Epidemia
+Bulgaria,2025,1755767,32550.802957333413,24462,Não em Epidemia
+Burkina Faso,2016,4617131,31028.427570113825,33387,Epidemia
+Burkina Faso,2017,4683790,31028.427570113825,32864,Epidemia
+Burkina Faso,2018,4766724,31028.427570113825,32449,Epidemia
+Burkina Faso,2019,4868194,31028.427570113825,32152,Epidemia
+Burkina Faso,2020,4991459,31028.427570113825,31986,Epidemia
+Burkina Faso,2021,5145746,31028.427570113825,31997,Epidemia
+Burkina Faso,2022,5334709,31028.427570113825,32193,Epidemia
+Burkina Faso,2023,5582016,31028.427570113825,32696,Epidemia
+Burkina Faso,2024,5917182,31028.427570113825,33647,Epidemia
+Burkina Faso,2025,6391334,31028.427570113825,35291,Epidemia
+Central African Republic,2016,1916100,44596.53801101493,45602,Epidemia
+Central African Republic,2017,1941769,44596.53801101493,45413,Epidemia
+Central African Republic,2018,1974904,44596.53801101493,45448,Epidemia
+Central African Republic,2019,2025898,44596.53801101493,45999,Epidemia
+Central African Republic,2020,2083461,44596.53801101493,46835,Epidemia
+Central African Republic,2021,2160436,44596.53801101493,48265,Epidemia
+Central African Republic,2022,2253954,44596.53801101493,50195,Epidemia
+Central African Republic,2023,2379814,44596.53801101493,52889,Epidemia
+Central African Republic,2024,2555972,44596.53801101493,56606,Epidemia
+Central African Republic,2025,2809958,44596.53801101493,61810,Epidemia
+Chad,2016,3877493,33977.837065112355,37206,Epidemia
+Chad,2017,3955915,33977.837065112355,36711,Epidemia
+Chad,2018,4038291,33977.837065112355,36270,Epidemia
+Chad,2019,4135635,33977.837065112355,35953,Epidemia
+Chad,2020,4253238,33977.837065112355,35780,Epidemia
+Chad,2021,4387027,33977.837065112355,35700,Epidemia
+Chad,2022,4531520,33977.837065112355,35667,Epidemia
+Chad,2023,4695572,33977.837065112355,35752,Epidemia
+Chad,2024,4884950,33977.837065112355,36000,Epidemia
+Chad,2025,5102424,33977.837065112355,36421,Epidemia
+Chile,2016,3642620,23361.361960888513,22320,Não em Epidemia
+Chile,2017,3638602,23361.361960888513,22063,Não em Epidemia
+Chile,2018,3634806,23361.361960888513,21815,Não em Epidemia
+Chile,2019,3631946,23361.361960888513,21581,Não em Epidemia
+Chile,2020,3629510,23361.361960888513,21358,Não em Epidemia
+Chile,2021,3627327,23361.361960888513,21146,Não em Epidemia
+Chile,2022,3627076,23361.361960888513,20954,Não em Epidemia
+Chile,2023,3626930,23361.361960888513,20769,Não em Epidemia
+Chile,2024,3626845,23361.361960888513,20591,Não em Epidemia
+Chile,2025,3626792,23361.361960888513,20418,Não em Epidemia
+China,2016,504553024,37971.74443052085,37959,Não em Epidemia
+China,2017,505351712,37971.74443052085,37803,Não em Epidemia
+China,2018,506062752,37971.74443052085,37642,Não em Epidemia
+China,2019,506934080,37971.74443052085,37493,Não em Epidemia
+China,2020,507942784,37971.74443052085,37355,Não em Epidemia
+China,2021,509020256,37971.74443052085,37223,Não em Epidemia
+China,2022,509854816,37971.74443052085,37075,Não em Epidemia
+China,2023,510671552,37971.74443052085,36930,Não em Epidemia
+China,2024,511478112,37971.74443052085,36794,Não em Epidemia
+China,2025,512259936,37971.74443052085,36668,Não em Epidemia
+Colombia,2016,13389229,31696.858713993228,30544,Não em Epidemia
+Colombia,2017,13366198,31696.858713993228,30121,Não em Epidemia
+Colombia,2018,13342953,31696.858713993228,29716,Não em Epidemia
+Colombia,2019,13324798,31696.858713993228,29339,Não em Epidemia
+Colombia,2020,13309690,31696.858713993228,28986,Não em Epidemia
+Colombia,2021,13296974,31696.858713993228,28653,Não em Epidemia
+Colombia,2022,13293807,31696.858713993228,28356,Não em Epidemia
+Colombia,2023,13291398,31696.858713993228,28075,Não em Epidemia
+Colombia,2024,13289863,31696.858713993228,27808,Não em Epidemia
+Colombia,2025,13288976,31696.858713993228,27554,Não em Epidemia
+Costa Rica,2016,1190363,27433.86995474404,27626,Epidemia
+Costa Rica,2017,1189095,27433.86995474404,27214,Não em Epidemia
+Costa Rica,2018,1188012,27433.86995474404,26820,Não em Epidemia
+Costa Rica,2019,1187011,27433.86995474404,26447,Não em Epidemia
+Costa Rica,2020,1186220,27433.86995474404,26098,Não em Epidemia
+Costa Rica,2021,1185574,27433.86995474404,25771,Não em Epidemia
+Costa Rica,2022,1185290,27433.86995474404,25468,Não em Epidemia
+Costa Rica,2023,1185083,27433.86995474404,25180,Não em Epidemia
+Costa Rica,2024,1184930,27433.86995474404,24906,Não em Epidemia
+Costa Rica,2025,1184825,27433.86995474404,24644,Não em Epidemia
+Croatia,2016,810651,23969.003421542413,18547,Não em Epidemia
+Croatia,2017,804527,23969.003421542413,18443,Não em Epidemia
+Croatia,2018,797535,23969.003421542413,18324,Não em Epidemia
+Croatia,2019,791933,23969.003421542413,18243,Não em Epidemia
+Croatia,2020,787532,23969.003421542413,18196,Não em Epidemia
+Croatia,2021,783504,23969.003421542413,18165,Não em Epidemia
+Croatia,2022,782774,23969.003421542413,18219,Não em Epidemia
+Croatia,2023,782179,23969.003421542413,18285,Não em Epidemia
+Croatia,2024,781769,23969.003421542413,18362,Não em Epidemia
+Croatia,2025,781512,23969.003421542413,18449,Não em Epidemia
+Cuba,2016,2598616,25648.119589907288,23004,Não em Epidemia
+Cuba,2017,2579628,25648.119589907288,22821,Não em Epidemia
+Cuba,2018,2565589,25648.119589907288,22685,Não em Epidemia
+Cuba,2019,2553778,25648.119589907288,22563,Não em Epidemia
+Cuba,2020,2544378,25648.119589907288,22451,Não em Epidemia
+Cuba,2021,2536828,25648.119589907288,22342,Não em Epidemia
+Cuba,2022,2534640,25648.119589907288,22269,Não em Epidemia
+Cuba,2023,2533234,25648.119589907288,22198,Não em Epidemia
+Cuba,2024,2532342,25648.119589907288,22136,Não em Epidemia
+Cuba,2025,2531839,25648.119589907288,22090,Não em Epidemia
+Cyprus,2016,138469,13857.21369483113,13244,Não em Epidemia
+Cyprus,2017,138313,13857.21369483113,13003,Não em Epidemia
+Cyprus,2018,138124,13857.21369483113,12771,Não em Epidemia
+Cyprus,2019,137969,13857.21369483113,12565,Não em Epidemia
+Cyprus,2020,137851,13857.21369483113,12390,Não em Epidemia
+Cyprus,2021,137754,13857.21369483113,12247,Não em Epidemia
+Cyprus,2022,137743,13857.21369483113,12135,Não em Epidemia
+Cyprus,2023,137736,13857.21369483113,12041,Não em Epidemia
+Cyprus,2024,137731,13857.21369483113,11953,Não em Epidemia
+Cyprus,2025,137729,13857.21369483113,11863,Não em Epidemia
+Denmark,2016,696226,14496.72144494384,12788,Não em Epidemia
+Denmark,2017,695011,14496.72144494384,12706,Não em Epidemia
+Denmark,2018,692006,14496.72144494384,12587,Não em Epidemia
+Denmark,2019,689509,14496.72144494384,12477,Não em Epidemia
+Denmark,2020,687315,14496.72144494384,12373,Não em Epidemia
+Denmark,2021,685354,14496.72144494384,12276,Não em Epidemia
+Denmark,2022,685155,14496.72144494384,12212,Não em Epidemia
+Denmark,2023,684996,14496.72144494384,12150,Não em Epidemia
+Denmark,2024,684879,14496.72144494384,12092,Não em Epidemia
+Denmark,2025,684814,14496.72144494384,12038,Não em Epidemia
+Djibouti,2016,267406,35518.13830414969,33585,Não em Epidemia
+Djibouti,2017,266594,35518.13830414969,32937,Não em Epidemia
+Djibouti,2018,265887,35518.13830414969,32310,Não em Epidemia
+Djibouti,2019,265226,35518.13830414969,31694,Não em Epidemia
+Djibouti,2020,264706,35518.13830414969,31100,Não em Epidemia
+Djibouti,2021,264282,35518.13830414969,30520,Não em Epidemia
+Djibouti,2022,264189,35518.13830414969,29981,Não em Epidemia
+Djibouti,2023,264122,35518.13830414969,29455,Não em Epidemia
+Djibouti,2024,264078,35518.13830414969,28951,Não em Epidemia
+Djibouti,2025,264054,35518.13830414969,28472,Não em Epidemia
+Dominican Republic,2016,2910492,30714.245023342937,31057,Epidemia
+Dominican Republic,2017,2902610,30714.245023342937,30540,Não em Epidemia
+Dominican Republic,2018,2896231,30714.245023342937,30055,Não em Epidemia
+Dominican Republic,2019,2890185,30714.245023342937,29589,Não em Epidemia
+Dominican Republic,2020,2883801,30714.245023342937,29135,Não em Epidemia
+Dominican Republic,2021,2878578,30714.245023342937,28708,Não em Epidemia
+Dominican Republic,2022,2875390,30714.245023342937,28315,Não em Epidemia
+Dominican Republic,2023,2872797,30714.245023342937,27942,Não em Epidemia
+Dominican Republic,2024,2870689,30714.245023342937,27587,Não em Epidemia
+Dominican Republic,2025,2869016,30714.245023342937,27250,Não em Epidemia
+Ecuador,2016,3249479,23223.79880348556,23265,Epidemia
+Ecuador,2017,3245209,23223.79880348556,22845,Não em Epidemia
+Ecuador,2018,3240862,23223.79880348556,22432,Não em Epidemia
+Ecuador,2019,3237297,23223.79880348556,22036,Não em Epidemia
+Ecuador,2020,3234487,23223.79880348556,21658,Não em Epidemia
+Ecuador,2021,3232317,23223.79880348556,21297,Não em Epidemia
+Ecuador,2022,3231681,23223.79880348556,20958,Não em Epidemia
+Ecuador,2023,3231190,23223.79880348556,20631,Não em Epidemia
+Ecuador,2024,3230856,23223.79880348556,20316,Não em Epidemia
+Ecuador,2025,3230641,23223.79880348556,20011,Não em Epidemia
+Egypt,2016,31529602,38886.774358396746,40340,Epidemia
+Egypt,2017,31684626,38886.774358396746,39836,Epidemia
+Egypt,2018,31884914,38886.774358396746,39387,Epidemia
+Egypt,2019,32049790,38886.774358396746,38865,Não em Epidemia
+Egypt,2020,32225014,38886.774358396746,38314,Não em Epidemia
+Egypt,2021,32393616,38886.774358396746,37712,Não em Epidemia
+Egypt,2022,32559634,38886.774358396746,37078,Não em Epidemia
+Egypt,2023,32725534,38886.774358396746,36440,Não em Epidemia
+Egypt,2024,32887926,38886.774358396746,35821,Não em Epidemia
+Egypt,2025,33049312,38886.774358396746,35242,Não em Epidemia
+Estonia,2016,275356,28222.088482356554,20407,Não em Epidemia
+Estonia,2017,272850,28222.088482356554,20300,Não em Epidemia
+Estonia,2018,271426,28222.088482356554,20260,Não em Epidemia
+Estonia,2019,270131,28222.088482356554,20222,Não em Epidemia
+Estonia,2020,269035,28222.088482356554,20196,Não em Epidemia
+Estonia,2021,268070,28222.088482356554,20179,Não em Epidemia
+Estonia,2022,267867,28222.088482356554,20217,Não em Epidemia
+Estonia,2023,267720,28222.088482356554,20258,Não em Epidemia
+Estonia,2024,267626,28222.088482356554,20300,Não em Epidemia
+Estonia,2025,267573,28222.088482356554,20343,Não em Epidemia
+Ethiopia,2016,35542928,41204.021474909074,45076,Epidemia
+Ethiopia,2017,36477912,41204.021474909074,45034,Epidemia
+Ethiopia,2018,37576528,41204.021474909074,45172,Epidemia
+Ethiopia,2019,38907224,41204.021474909074,45550,Epidemia
+Ethiopia,2020,40482840,41204.021474909074,46159,Epidemia
+Ethiopia,2021,42335844,41204.021474909074,47015,Epidemia
+Ethiopia,2022,44317844,41204.021474909074,47940,Epidemia
+Ethiopia,2023,46635748,41204.021474909074,49148,Epidemia
+Ethiopia,2024,49391964,41204.021474909074,50728,Epidemia
+Ethiopia,2025,52710268,41204.021474909074,52777,Epidemia
+Fiji,2016,363565,43089.85016575582,43940,Epidemia
+Fiji,2017,363362,43089.85016575582,43526,Epidemia
+Fiji,2018,363891,43089.85016575582,43149,Epidemia
+Fiji,2019,364486,43089.85016575582,42782,Não em Epidemia
+Fiji,2020,365367,43089.85016575582,42487,Não em Epidemia
+Fiji,2021,366613,43089.85016575582,42281,Não em Epidemia
+Fiji,2022,367410,43089.85016575582,42057,Não em Epidemia
+Fiji,2023,368281,43089.85016575582,41864,Não em Epidemia
+Fiji,2024,369187,43089.85016575582,41678,Não em Epidemia
+Fiji,2025,370127,43089.85016575582,41487,Não em Epidemia
+France,2016,7505500,13920.209371995343,12186,Não em Epidemia
+France,2017,7504275,13920.209371995343,12111,Não em Epidemia
+France,2018,7496142,13920.209371995343,12027,Não em Epidemia
+France,2019,7487626,13920.209371995343,11944,Não em Epidemia
+France,2020,7478262,13920.209371995343,11865,Não em Epidemia
+France,2021,7467608,13920.209371995343,11789,Não em Epidemia
+France,2022,7467185,13920.209371995343,11734,Não em Epidemia
+France,2023,7467018,13920.209371995343,11682,Não em Epidemia
+France,2024,7466949,13920.209371995343,11632,Não em Epidemia
+France,2025,7466900,13920.209371995343,11584,Não em Epidemia
+Gambia,2016,428333,26340.634197604537,28728,Epidemia
+Gambia,2017,438853,26340.634197604537,28513,Epidemia
+Gambia,2018,449918,26340.634197604537,28322,Epidemia
+Gambia,2019,462216,26340.634197604537,28191,Epidemia
+Gambia,2020,475617,26340.634197604537,28107,Epidemia
+Gambia,2021,489275,26340.634197604537,28017,Epidemia
+Gambia,2022,502100,26340.634197604537,27862,Epidemia
+Gambia,2023,514535,26340.634197604537,27673,Epidemia
+Gambia,2024,526413,26340.634197604537,27448,Epidemia
+Gambia,2025,537567,26340.634197604537,27183,Epidemia
+Georgia,2016,1087318,32075.314535532198,24495,Não em Epidemia
+Georgia,2017,1085734,32075.314535532198,24729,Não em Epidemia
+Georgia,2018,1082684,32075.314535532198,24944,Não em Epidemia
+Georgia,2019,1080084,32075.314535532198,25190,Não em Epidemia
+Georgia,2020,1077492,32075.314535532198,25463,Não em Epidemia
+Georgia,2021,1075256,32075.314535532198,25778,Não em Epidemia
+Georgia,2022,1075053,32075.314535532198,26172,Não em Epidemia
+Georgia,2023,1074898,32075.314535532198,26568,Não em Epidemia
+Georgia,2024,1074770,32075.314535532198,26921,Não em Epidemia
+Georgia,2025,1074700,32075.314535532198,27197,Não em Epidemia
+Germany,2016,9828310,13844.715164183355,12053,Não em Epidemia
+Germany,2017,9778631,13844.715164183355,12021,Não em Epidemia
+Germany,2018,9748030,13844.715164183355,12015,Não em Epidemia
+Germany,2019,9725441,13844.715164183355,12012,Não em Epidemia
+Germany,2020,9705670,13844.715164183355,11998,Não em Epidemia
+Germany,2021,9684748,13844.715164183355,11966,Não em Epidemia
+Germany,2022,9680721,13844.715164183355,11942,Não em Epidemia
+Germany,2023,9678094,13844.715164183355,11909,Não em Epidemia
+Germany,2024,9676303,13844.715164183355,11874,Não em Epidemia
+Germany,2025,9675169,13844.715164183355,11841,Não em Epidemia
+Ghana,2016,8058782,34289.35349177745,36443,Epidemia
+Ghana,2017,8209612,34289.35349177745,36165,Epidemia
+Ghana,2018,8403976,34289.35349177745,36071,Epidemia
+Ghana,2019,8651531,34289.35349177745,36193,Epidemia
+Ghana,2020,8967737,34289.35349177745,36585,Epidemia
+Ghana,2021,9405726,34289.35349177745,37440,Epidemia
+Ghana,2022,9982882,34289.35349177745,38794,Epidemia
+Ghana,2023,10823270,34289.35349177745,41081,Epidemia
+Ghana,2024,12131856,34289.35349177745,44995,Epidemia
+Ghana,2025,14334361,34289.35349177745,51968,Epidemia
+Greece,2016,1416651,13581.318789535333,12494,Não em Epidemia
+Greece,2017,1406878,13581.318789535333,12362,Não em Epidemia
+Greece,2018,1399466,13581.318789535333,12255,Não em Epidemia
+Greece,2019,1393026,13581.318789535333,12173,Não em Epidemia
+Greece,2020,1387694,13581.318789535333,12124,Não em Epidemia
+Greece,2021,1383174,13581.318789535333,12109,Não em Epidemia
+Greece,2022,1381967,13581.318789535333,12146,Não em Epidemia
+Greece,2023,1381177,13581.318789535333,12200,Não em Epidemia
+Greece,2024,1380661,13581.318789535333,12256,Não em Epidemia
+Greece,2025,1380310,13581.318789535333,12305,Não em Epidemia
+Guinea-Bissau,2016,531049,34837.85884216566,37592,Epidemia
+Guinea-Bissau,2017,535785,34837.85884216566,37054,Epidemia
+Guinea-Bissau,2018,541285,34837.85884216566,36553,Epidemia
+Guinea-Bissau,2019,547510,34837.85884216566,36081,Epidemia
+Guinea-Bissau,2020,554692,34837.85884216566,35651,Epidemia
+Guinea-Bissau,2021,563202,34837.85884216566,35285,Epidemia
+Guinea-Bissau,2022,572279,34837.85884216566,34935,Epidemia
+Guinea-Bissau,2023,582639,34837.85884216566,34650,Não em Epidemia
+Guinea-Bissau,2024,594624,34837.85884216566,34456,Não em Epidemia
+Guinea-Bissau,2025,608695,34837.85884216566,34379,Não em Epidemia
+Honduras,2016,3103374,38796.69555914673,41151,Epidemia
+Honduras,2017,3149746,38796.69555914673,40863,Epidemia
+Honduras,2018,3197815,38796.69555914673,40619,Epidemia
+Honduras,2019,3248066,38796.69555914673,40424,Epidemia
+Honduras,2020,3299429,38796.69555914673,40263,Epidemia
+Honduras,2021,3354129,38796.69555914673,40162,Epidemia
+Honduras,2022,3400486,38796.69555914673,39979,Epidemia
+Honduras,2023,3445428,38796.69555914673,39796,Epidemia
+Honduras,2024,3488402,38796.69555914673,39599,Epidemia
+Honduras,2025,3529073,38796.69555914673,39383,Epidemia
+India,2016,373879456,31271.543116444023,32176,Epidemia
+India,2017,373417984,31271.543116444023,31654,Epidemia
+India,2018,373606400,31271.543116444023,31208,Não em Epidemia
+India,2019,374019072,31271.543116444023,30802,Não em Epidemia
+India,2020,374498848,31271.543116444023,30423,Não em Epidemia
+India,2021,374967424,31271.543116444023,30064,Não em Epidemia
+India,2022,375273312,31271.543116444023,29711,Não em Epidemia
+India,2023,375611552,31271.543116444023,29378,Não em Epidemia
+India,2024,375950912,31271.543116444023,29057,Não em Epidemia
+India,2025,376277440,31271.543116444023,28744,Não em Epidemia
+Ireland,2016,536363,13021.086515604085,12464,Não em Epidemia
+Ireland,2017,534838,13021.086515604085,12161,Não em Epidemia
+Ireland,2018,533728,13021.086515604085,11888,Não em Epidemia
+Ireland,2019,532798,13021.086515604085,11664,Não em Epidemia
+Ireland,2020,532019,13021.086515604085,11498,Não em Epidemia
+Ireland,2021,531367,13021.086515604085,11396,Não em Epidemia
+Ireland,2022,531226,13021.086515604085,11356,Não em Epidemia
+Ireland,2023,531133,13021.086515604085,11344,Não em Epidemia
+Ireland,2024,531073,13021.086515604085,11332,Não em Epidemia
+Ireland,2025,531034,13021.086515604085,11298,Não em Epidemia
+Israel,2016,975262,13705.216907631011,14437,Epidemia
+Israel,2017,978922,13705.216907631011,14141,Epidemia
+Israel,2018,982432,13705.216907631011,13842,Epidemia
+Israel,2019,985569,13705.216907631011,13561,Não em Epidemia
+Israel,2020,989759,13705.216907631011,13328,Não em Epidemia
+Israel,2021,994767,13705.216907631011,13143,Não em Epidemia
+Israel,2022,999665,13705.216907631011,12984,Não em Epidemia
+Israel,2023,1004970,13705.216907631011,12849,Não em Epidemia
+Israel,2024,1010810,13705.216907631011,12728,Não em Epidemia
+Israel,2025,1017373,13705.216907631011,12615,Não em Epidemia
+Italy,2016,9173219,16999.462921946102,15527,Não em Epidemia
+Italy,2017,9136055,16999.462921946102,15403,Não em Epidemia
+Italy,2018,9099535,16999.462921946102,15293,Não em Epidemia
+Italy,2019,9069699,16999.462921946102,15207,Não em Epidemia
+Italy,2020,9044561,16999.462921946102,15142,Não em Epidemia
+Italy,2021,9022823,16999.462921946102,15098,Não em Epidemia
+Italy,2022,9017791,16999.462921946102,15097,Não em Epidemia
+Italy,2023,9013779,16999.462921946102,15107,Não em Epidemia
+Italy,2024,9011016,16999.462921946102,15123,Não em Epidemia
+Italy,2025,9009371,16999.462921946102,15141,Não em Epidemia
+Japan,2016,30081662,29462.24467715164,23422,Não em Epidemia
+Japan,2017,29870714,29462.24467715164,23245,Não em Epidemia
+Japan,2018,29648284,29462.24467715164,23064,Não em Epidemia
+Japan,2019,29464472,29462.24467715164,22918,Não em Epidemia
+Japan,2020,29315584,29462.24467715164,22804,Não em Epidemia
+Japan,2021,29195648,29462.24467715164,22719,Não em Epidemia
+Japan,2022,29176772,29462.24467715164,22719,Não em Epidemia
+Japan,2023,29162648,29462.24467715164,22728,Não em Epidemia
+Japan,2024,29154700,29462.24467715164,22748,Não em Epidemia
+Japan,2025,29150776,29462.24467715164,22779,Não em Epidemia
+Kenya,2016,14738101,34798.14961642624,39777,Epidemia
+Kenya,2017,15024100,34798.14961642624,39448,Epidemia
+Kenya,2018,15305403,34798.14961642624,39096,Epidemia
+Kenya,2019,15629377,34798.14961642624,38843,Epidemia
+Kenya,2020,15979037,34798.14961642624,38643,Epidemia
+Kenya,2021,16383517,34798.14961642624,38561,Epidemia
+Kenya,2022,16790660,34798.14961642624,38470,Epidemia
+Kenya,2023,17235458,34798.14961642624,38449,Epidemia
+Kenya,2024,17727376,34798.14961642624,38517,Epidemia
+Kenya,2025,18269862,34798.14961642624,38678,Epidemia
+Kiribati,2016,50567,49306.59812561084,53646,Epidemia
+Kiribati,2017,51108,49306.59812561084,53066,Epidemia
+Kiribati,2018,51678,49306.59812561084,52497,Epidemia
+Kiribati,2019,52350,49306.59812561084,52055,Epidemia
+Kiribati,2020,53266,49306.59812561084,51890,Epidemia
+Kiribati,2021,54134,49306.59812561084,51726,Epidemia
+Kiribati,2022,54906,49306.59812561084,51501,Epidemia
+Kiribati,2023,55706,49306.59812561084,51326,Epidemia
+Kiribati,2024,56537,49306.59812561084,51184,Epidemia
+Kiribati,2025,57393,49306.59812561084,51058,Epidemia
+Kuwait,2016,541580,20260.97321326287,22782,Epidemia
+Kuwait,2017,536136,20260.97321326287,21416,Epidemia
+Kuwait,2018,527713,20260.97321326287,19896,Não em Epidemia
+Kuwait,2019,518384,20260.97321326287,18389,Não em Epidemia
+Kuwait,2020,512452,20260.97321326287,17093,Não em Epidemia
+Kuwait,2021,503829,20260.97321326287,15789,Não em Epidemia
+Kuwait,2022,499013,20260.97321326287,14696,Não em Epidemia
+Kuwait,2023,494630,20260.97321326287,13746,Não em Epidemia
+Kuwait,2024,490875,20260.97321326287,12978,Não em Epidemia
+Kuwait,2025,487743,20260.97321326287,12393,Não em Epidemia
+Laos,2016,1408608,23295.328812986267,24081,Epidemia
+Laos,2017,1412632,23295.328812986267,23743,Epidemia
+Laos,2018,1416701,23295.328812986267,23408,Epidemia
+Laos,2019,1421135,23295.328812986267,23100,Não em Epidemia
+Laos,2020,1426088,23295.328812986267,22831,Não em Epidemia
+Laos,2021,1431451,23295.328812986267,22601,Não em Epidemia
+Laos,2022,1436979,23295.328812986267,22400,Não em Epidemia
+Laos,2023,1442959,23295.328812986267,22218,Não em Epidemia
+Laos,2024,1449479,23295.328812986267,22041,Não em Epidemia
+Laos,2025,1456623,23295.328812986267,21858,Não em Epidemia
+Latvia,2016,512015,31608.7720708434,23010,Não em Epidemia
+Latvia,2017,502541,31608.7720708434,22858,Não em Epidemia
+Latvia,2018,495729,31608.7720708434,22825,Não em Epidemia
+Latvia,2019,489579,31608.7720708434,22821,Não em Epidemia
+Latvia,2020,485455,31608.7720708434,22911,Não em Epidemia
+Latvia,2021,481384,31608.7720708434,23005,Não em Epidemia
+Latvia,2022,479629,31608.7720708434,23211,Não em Epidemia
+Latvia,2023,478376,31608.7720708434,23441,Não em Epidemia
+Latvia,2024,477517,31608.7720708434,23685,Não em Epidemia
+Latvia,2025,476946,31608.7720708434,23935,Não em Epidemia
+Lebanon,2016,897230,20893.765320775066,22114,Epidemia
+Lebanon,2017,896190,20893.765320775066,21931,Epidemia
+Lebanon,2018,896276,20893.765320775066,21802,Epidemia
+Lebanon,2019,895442,20893.765320775066,21406,Epidemia
+Lebanon,2020,893826,20893.765320775066,20609,Não em Epidemia
+Lebanon,2021,891333,20893.765320775066,19426,Não em Epidemia
+Lebanon,2022,890108,20893.765320775066,18105,Não em Epidemia
+Lebanon,2023,888933,20893.765320775066,16848,Não em Epidemia
+Lebanon,2024,887728,20893.765320775066,15843,Não em Epidemia
+Lebanon,2025,886552,20893.765320775066,15151,Não em Epidemia
+Lesotho,2016,744023,37155.37610310213,37851,Epidemia
+Lesotho,2017,744621,37155.37610310213,37564,Epidemia
+Lesotho,2018,745581,37155.37610310213,37280,Epidemia
+Lesotho,2019,746538,37155.37610310213,36972,Não em Epidemia
+Lesotho,2020,747725,37155.37610310213,36643,Não em Epidemia
+Lesotho,2021,749133,37155.37610310213,36292,Não em Epidemia
+Lesotho,2022,750348,37155.37610310213,35903,Não em Epidemia
+Lesotho,2023,751661,37155.37610310213,35500,Não em Epidemia
+Lesotho,2024,753060,37155.37610310213,35095,Não em Epidemia
+Lesotho,2025,754560,37155.37610310213,34698,Não em Epidemia
+Luxembourg,2016,255529,13411.646018790268,13000,Não em Epidemia
+Luxembourg,2017,254920,13411.646018790268,12860,Não em Epidemia
+Luxembourg,2018,254395,13411.646018790268,12720,Não em Epidemia
+Luxembourg,2019,253934,13411.646018790268,12576,Não em Epidemia
+Luxembourg,2020,253543,13411.646018790268,12425,Não em Epidemia
+Luxembourg,2021,253147,13411.646018790268,12264,Não em Epidemia
+Luxembourg,2022,253100,13411.646018790268,12110,Não em Epidemia
+Luxembourg,2023,253061,13411.646018790268,11952,Não em Epidemia
+Luxembourg,2024,253034,13411.646018790268,11792,Não em Epidemia
+Luxembourg,2025,253018,13411.646018790268,11635,Não em Epidemia
+Malaysia,2016,9602493,36528.35976048233,36730,Epidemia
+Malaysia,2017,9557421,36528.35976048233,35895,Não em Epidemia
+Malaysia,2018,9556957,36528.35976048233,35251,Não em Epidemia
+Malaysia,2019,9567779,36528.35976048233,34659,Não em Epidemia
+Malaysia,2020,9582430,36528.35976048233,34086,Não em Epidemia
+Malaysia,2021,9593432,36528.35976048233,33502,Não em Epidemia
+Malaysia,2022,9597771,36528.35976048233,32902,Não em Epidemia
+Malaysia,2023,9604872,36528.35976048233,32332,Não em Epidemia
+Malaysia,2024,9612222,36528.35976048233,31799,Não em Epidemia
+Malaysia,2025,9619114,36528.35976048233,31309,Não em Epidemia
+Mali,2016,4397383,30535.474161918937,33245,Epidemia
+Mali,2017,4484792,30535.474161918937,32794,Epidemia
+Mali,2018,4601618,30535.474161918937,32547,Epidemia
+Mali,2019,4745446,30535.474161918937,32488,Epidemia
+Mali,2020,4917136,30535.474161918937,32618,Epidemia
+Mali,2021,5121114,30535.474161918937,32952,Epidemia
+Mali,2022,5354118,30535.474161918937,33449,Epidemia
+Mali,2023,5637097,30535.474161918937,34210,Epidemia
+Mali,2024,5985025,30535.474161918937,35283,Epidemia
+Mali,2025,6415576,30535.474161918937,36728,Epidemia
+Malta,2016,53334,14206.28093009438,13054,Não em Epidemia
+Malta,2017,53138,14206.28093009438,12950,Não em Epidemia
+Malta,2018,52991,14206.28093009438,12858,Não em Epidemia
+Malta,2019,52874,14206.28093009438,12770,Não em Epidemia
+Malta,2020,52773,14206.28093009438,12683,Não em Epidemia
+Malta,2021,52698,14206.28093009438,12596,Não em Epidemia
+Malta,2022,52682,14206.28093009438,12520,Não em Epidemia
+Malta,2023,52671,14206.28093009438,12445,Não em Epidemia
+Malta,2024,52664,14206.28093009438,12375,Não em Epidemia
+Malta,2025,52660,14206.28093009438,12315,Não em Epidemia
+Mexico,2016,39226580,34613.5761067484,35631,Epidemia
+Mexico,2017,39304156,34613.5761067484,35144,Epidemia
+Mexico,2018,39417944,34613.5761067484,34680,Epidemia
+Mexico,2019,39622644,34613.5761067484,34304,Não em Epidemia
+Mexico,2020,39832948,34613.5761067484,33953,Não em Epidemia
+Mexico,2021,40065228,34613.5761067484,33643,Não em Epidemia
+Mexico,2022,40307664,34613.5761067484,33359,Não em Epidemia
+Mexico,2023,40589908,34613.5761067484,33125,Não em Epidemia
+Mexico,2024,40921220,34613.5761067484,32942,Não em Epidemia
+Mexico,2025,41307412,34613.5761067484,32812,Não em Epidemia
+Morocco,2016,8554192,27602.026235776473,27711,Epidemia
+Morocco,2017,8543817,27602.026235776473,27361,Não em Epidemia
+Morocco,2018,8535383,27602.026235776473,27013,Não em Epidemia
+Morocco,2019,8528280,27602.026235776473,26659,Não em Epidemia
+Morocco,2020,8522437,27602.026235776473,26296,Não em Epidemia
+Morocco,2021,8517354,27602.026235776473,25921,Não em Epidemia
+Morocco,2022,8516389,27602.026235776473,25549,Não em Epidemia
+Morocco,2023,8515730,27602.026235776473,25176,Não em Epidemia
+Morocco,2024,8515246,27602.026235776473,24813,Não em Epidemia
+Morocco,2025,8514941,27602.026235776473,24466,Não em Epidemia
+Nepal,2016,10372832,42859.24928598452,39987,Não em Epidemia
+Nepal,2017,10315187,42859.24928598452,39349,Não em Epidemia
+Nepal,2018,10273238,42859.24928598452,38802,Não em Epidemia
+Nepal,2019,10238643,42859.24928598452,38288,Não em Epidemia
+Nepal,2020,10210918,42859.24928598452,37786,Não em Epidemia
+Nepal,2021,10187844,42859.24928598452,37281,Não em Epidemia
+Nepal,2022,10179191,42859.24928598452,36815,Não em Epidemia
+Nepal,2023,10173036,42859.24928598452,36351,Não em Epidemia
+Nepal,2024,10168809,42859.24928598452,35903,Não em Epidemia
+Nepal,2025,10165974,42859.24928598452,35476,Não em Epidemia
+Netherlands,2016,1928317,13266.380855924865,11729,Não em Epidemia
+Netherlands,2017,1914978,13266.380855924865,11601,Não em Epidemia
+Netherlands,2018,1905872,13266.380855924865,11503,Não em Epidemia
+Netherlands,2019,1898620,13266.380855924865,11419,Não em Epidemia
+Netherlands,2020,1893943,13266.380855924865,11353,Não em Epidemia
+Netherlands,2021,1890562,13266.380855924865,11296,Não em Epidemia
+Netherlands,2022,1889800,13266.380855924865,11256,Não em Epidemia
+Netherlands,2023,1889316,13266.380855924865,11219,Não em Epidemia
+Netherlands,2024,1889023,13266.380855924865,11185,Não em Epidemia
+Netherlands,2025,1888867,13266.380855924865,11151,Não em Epidemia
+New Zealand,2016,794181,18937.858432591256,18973,Epidemia
+New Zealand,2017,793710,18937.858432591256,18750,Não em Epidemia
+New Zealand,2018,793334,18937.858432591256,18543,Não em Epidemia
+New Zealand,2019,793021,18937.858432591256,18342,Não em Epidemia
+New Zealand,2020,792748,18937.858432591256,18140,Não em Epidemia
+New Zealand,2021,792530,18937.858432591256,17937,Não em Epidemia
+New Zealand,2022,792476,18937.858432591256,17738,Não em Epidemia
+New Zealand,2023,792440,18937.858432591256,17541,Não em Epidemia
+New Zealand,2024,792416,18937.858432591256,17352,Não em Epidemia
+New Zealand,2025,792401,18937.858432591256,17172,Não em Epidemia
+Nigeria,2016,46438548,30537.613770528063,32562,Epidemia
+Nigeria,2017,46716388,30537.613770528063,31906,Epidemia
+Nigeria,2018,47048692,30537.613770528063,31293,Epidemia
+Nigeria,2019,47430104,30537.613770528063,30719,Epidemia
+Nigeria,2020,47872372,30537.613770528063,30188,Não em Epidemia
+Nigeria,2021,48381132,30537.613770528063,29704,Não em Epidemia
+Nigeria,2022,48896952,30537.613770528063,29228,Não em Epidemia
+Nigeria,2023,49471268,30537.613770528063,28791,Não em Epidemia
+Nigeria,2024,50105424,30537.613770528063,28395,Não em Epidemia
+Nigeria,2025,50807676,30537.613770528063,28042,Não em Epidemia
+Norway,2016,620436,13503.866346646337,13277,Não em Epidemia
+Norway,2017,621672,13503.866346646337,13172,Não em Epidemia
+Norway,2018,622090,13503.866346646337,13038,Não em Epidemia
+Norway,2019,622170,13503.866346646337,12889,Não em Epidemia
+Norway,2020,622174,13503.866346646337,12734,Não em Epidemia
+Norway,2021,622373,13503.866346646337,12579,Não em Epidemia
+Norway,2022,622396,13503.866346646337,12418,Não em Epidemia
+Norway,2023,622407,13503.866346646337,12259,Não em Epidemia
+Norway,2024,622413,13503.866346646337,12108,Não em Epidemia
+Norway,2025,622416,13503.866346646337,11970,Não em Epidemia
+Palestine,2016,856741,21622.806140248285,23412,Epidemia
+Palestine,2017,864999,21622.806140248285,23055,Epidemia
+Palestine,2018,877354,21622.806140248285,22775,Epidemia
+Palestine,2019,891872,21622.806140248285,22534,Epidemia
+Palestine,2020,907628,21622.806140248285,22318,Epidemia
+Palestine,2021,924615,21622.806140248285,22126,Epidemia
+Palestine,2022,939987,21622.806140248285,21886,Epidemia
+Palestine,2023,956261,21622.806140248285,21661,Epidemia
+Palestine,2024,972880,21622.806140248285,21441,Não em Epidemia
+Palestine,2025,989640,21622.806140248285,21224,Não em Epidemia
+Paraguay,2016,1821678,30622.89859057071,30966,Epidemia
+Paraguay,2017,1828539,30622.89859057071,30649,Epidemia
+Paraguay,2018,1836301,30622.89859057071,30367,Não em Epidemia
+Paraguay,2019,1846026,30622.89859057071,30125,Não em Epidemia
+Paraguay,2020,1856867,30622.89859057071,29902,Não em Epidemia
+Paraguay,2021,1869807,30622.89859057071,29709,Não em Epidemia
+Paraguay,2022,1883676,30622.89859057071,29528,Não em Epidemia
+Paraguay,2023,1899798,30622.89859057071,29383,Não em Epidemia
+Paraguay,2024,1918827,30622.89859057071,29284,Não em Epidemia
+Paraguay,2025,1941536,30622.89859057071,29244,Não em Epidemia
+Peru,2016,5814028,22812.28757874819,20802,Não em Epidemia
+Peru,2017,5800501,22812.28757874819,20502,Não em Epidemia
+Peru,2018,5790715,22812.28757874819,20218,Não em Epidemia
+Peru,2019,5781496,22812.28757874819,19935,Não em Epidemia
+Peru,2020,5772855,22812.28757874819,19653,Não em Epidemia
+Peru,2021,5766804,22812.28757874819,19378,Não em Epidemia
+Peru,2022,5766014,22812.28757874819,19119,Não em Epidemia
+Peru,2023,5765605,22812.28757874819,18863,Não em Epidemia
+Peru,2024,5765325,22812.28757874819,18614,Não em Epidemia
+Peru,2025,5765161,22812.28757874819,18374,Não em Epidemia
+Philippines,2016,41028832,45735.58729745611,46725,Epidemia
+Philippines,2017,41381496,45735.58729745611,46343,Epidemia
+Philippines,2018,41737784,45735.58729745611,45991,Epidemia
+Philippines,2019,42230564,45735.58729745611,45793,Epidemia
+Philippines,2020,42870408,45735.58729745611,45740,Epidemia
+Philippines,2021,43601888,45735.58729745611,45763,Epidemia
+Philippines,2022,44167744,45735.58729745611,45596,Não em Epidemia
+Philippines,2023,44759512,45735.58729745611,45450,Não em Epidemia
+Philippines,2024,45375832,45735.58729745611,45376,Não em Epidemia
+Philippines,2025,46005220,45735.58729745611,45229,Não em Epidemia
+Poland,2016,8733605,28796.141062675368,22779,Não em Epidemia
+Poland,2017,8706687,28796.141062675368,22715,Não em Epidemia
+Poland,2018,8675043,28796.141062675368,22635,Não em Epidemia
+Poland,2019,8646407,28796.141062675368,22561,Não em Epidemia
+Poland,2020,8631161,28796.141062675368,22522,Não em Epidemia
+Poland,2021,8619709,28796.141062675368,22493,Não em Epidemia
+Poland,2022,8618237,28796.141062675368,22492,Não em Epidemia
+Poland,2023,8617320,28796.141062675368,22494,Não em Epidemia
+Poland,2024,8616782,28796.141062675368,22502,Não em Epidemia
+Poland,2025,8616520,28796.141062675368,22518,Não em Epidemia
+Portugal,2016,1372339,15341.588206366967,12947,Não em Epidemia
+Portugal,2017,1355552,15341.588206366967,12752,Não em Epidemia
+Portugal,2018,1341034,15341.588206366967,12589,Não em Epidemia
+Portugal,2019,1328300,15341.588206366967,12460,Não em Epidemia
+Portugal,2020,1317816,15341.588206366967,12371,Não em Epidemia
+Portugal,2021,1309865,15341.588206366967,12328,Não em Epidemia
+Portugal,2022,1307727,15341.588206366967,12358,Não em Epidemia
+Portugal,2023,1306402,15341.588206366967,12409,Não em Epidemia
+Portugal,2024,1305462,15341.588206366967,12467,Não em Epidemia
+Portugal,2025,1304910,15341.588206366967,12525,Não em Epidemia
+Qatar,2016,429412,27060.430781139585,42500,Epidemia
+Qatar,2017,421255,27060.430781139585,35410,Epidemia
+Qatar,2018,414769,27060.430781139585,29854,Epidemia
+Qatar,2019,408353,27060.430781139585,25670,Não em Epidemia
+Qatar,2020,410396,27060.430781139585,23060,Não em Epidemia
+Qatar,2021,404068,27060.430781139585,20700,Não em Epidemia
+Qatar,2022,400161,27060.430781139585,18969,Não em Epidemia
+Qatar,2023,396805,27060.430781139585,17632,Não em Epidemia
+Qatar,2024,393823,27060.430781139585,16586,Não em Epidemia
+Qatar,2025,391222,27060.430781139585,15765,Não em Epidemia
+Romania,2016,4677464,30789.552212754654,22018,Não em Epidemia
+Romania,2017,4630169,30789.552212754654,22011,Não em Epidemia
+Romania,2018,4579579,30789.552212754654,21995,Não em Epidemia
+Romania,2019,4540312,30789.552212754654,22021,Não em Epidemia
+Romania,2020,4504686,30789.552212754654,22038,Não em Epidemia
+Romania,2021,4477012,30789.552212754654,22062,Não em Epidemia
+Romania,2022,4471430,30789.552212754654,22167,Não em Epidemia
+Romania,2023,4467774,30789.552212754654,22263,Não em Epidemia
+Romania,2024,4465623,30789.552212754654,22359,Não em Epidemia
+Romania,2025,4464386,30789.552212754654,22460,Não em Epidemia
+Russia,2016,37410852,33925.72573236391,26102,Não em Epidemia
+Russia,2017,37027716,33925.72573236391,25866,Não em Epidemia
+Russia,2018,36714544,33925.72573236391,25660,Não em Epidemia
+Russia,2019,36437288,33925.72573236391,25464,Não em Epidemia
+Russia,2020,36199032,33925.72573236391,25287,Não em Epidemia
+Russia,2021,35987908,33925.72573236391,25120,Não em Epidemia
+Russia,2022,35936384,33925.72573236391,25057,Não em Epidemia
+Russia,2023,35900152,33925.72573236391,25001,Não em Epidemia
+Russia,2024,35874624,33925.72573236391,24954,Não em Epidemia
+Russia,2025,35857240,33925.72573236391,24920,Não em Epidemia
+Sao Tome and Principe,2016,45376,27696.710724435197,28480,Epidemia
+Sao Tome and Principe,2017,45293,27696.710724435197,27770,Epidemia
+Sao Tome and Principe,2018,45218,27696.710724435197,27091,Não em Epidemia
+Sao Tome and Principe,2019,45153,27696.710724435197,26434,Não em Epidemia
+Sao Tome and Principe,2020,45098,27696.710724435197,25803,Não em Epidemia
+Sao Tome and Principe,2021,45050,27696.710724435197,25196,Não em Epidemia
+Sao Tome and Principe,2022,45023,27696.710724435197,24618,Não em Epidemia
+Sao Tome and Principe,2023,45003,27696.710724435197,24060,Não em Epidemia
+Sao Tome and Principe,2024,44987,27696.710724435197,23520,Não em Epidemia
+Sao Tome and Principe,2025,44975,27696.710724435197,22999,Não em Epidemia
+Saudi Arabia,2016,7037025,26534.578426595737,28631,Epidemia
+Saudi Arabia,2017,7114814,26534.578426595737,28175,Epidemia
+Saudi Arabia,2018,7214524,26534.578426595737,27812,Epidemia
+Saudi Arabia,2019,7346723,26534.578426595737,27556,Epidemia
+Saudi Arabia,2020,7521344,26534.578426595737,27424,Epidemia
+Saudi Arabia,2021,7754606,26534.578426595737,27462,Epidemia
+Saudi Arabia,2022,8053158,26534.578426595737,27687,Epidemia
+Saudi Arabia,2023,8479057,26534.578426595737,28316,Epidemia
+Saudi Arabia,2024,9119799,26534.578426595737,29632,Epidemia
+Saudi Arabia,2025,10115443,26534.578426595737,32054,Epidemia
+Senegal,2016,3740548,29974.779559504954,32367,Epidemia
+Senegal,2017,3733029,29974.779559504954,31440,Epidemia
+Senegal,2018,3742142,29974.779559504954,30663,Epidemia
+Senegal,2019,3754011,29974.779559504954,29910,Não em Epidemia
+Senegal,2020,3768744,29974.779559504954,29178,Não em Epidemia
+Senegal,2021,3785431,29974.779559504954,28460,Não em Epidemia
+Senegal,2022,3796756,29974.779559504954,27706,Não em Epidemia
+Senegal,2023,3809561,29974.779559504954,26979,Não em Epidemia
+Senegal,2024,3822608,29974.779559504954,26279,Não em Epidemia
+Senegal,2025,3835727,29974.779559504954,25611,Não em Epidemia
+Sierra Leone,2016,1947069,32667.33436842695,33291,Epidemia
+Sierra Leone,2017,1987443,32667.33436842695,33039,Epidemia
+Sierra Leone,2018,2028664,32667.33436842695,32904,Epidemia
+Sierra Leone,2019,2076356,32667.33436842695,32904,Epidemia
+Sierra Leone,2020,2133243,32667.33436842695,33029,Epidemia
+Sierra Leone,2021,2198446,32667.33436842695,33251,Epidemia
+Sierra Leone,2022,2267248,32667.33436842695,33509,Epidemia
+Sierra Leone,2023,2345488,32667.33436842695,33884,Epidemia
+Sierra Leone,2024,2436718,32667.33436842695,34421,Epidemia
+Sierra Leone,2025,2544508,32667.33436842695,35160,Epidemia
+Singapore,2016,1285125,27942.164046407906,27865,Não em Epidemia
+Singapore,2017,1283500,27942.164046407906,27121,Não em Epidemia
+Singapore,2018,1282197,27942.164046407906,26431,Não em Epidemia
+Singapore,2019,1281040,27942.164046407906,25799,Não em Epidemia
+Singapore,2020,1280238,27942.164046407906,25230,Não em Epidemia
+Singapore,2021,1279589,27942.164046407906,24722,Não em Epidemia
+Singapore,2022,1279475,27942.164046407906,24274,Não em Epidemia
+Singapore,2023,1279392,27942.164046407906,23866,Não em Epidemia
+Singapore,2024,1279341,27942.164046407906,23481,Não em Epidemia
+Singapore,2025,1279316,27942.164046407906,23112,Não em Epidemia
+Slovakia,2016,1162860,26669.577225246077,21540,Não em Epidemia
+Slovakia,2017,1157743,26669.577225246077,21446,Não em Epidemia
+Slovakia,2018,1153804,26669.577225246077,21371,Não em Epidemia
+Slovakia,2019,1150794,26669.577225246077,21308,Não em Epidemia
+Slovakia,2020,1148034,26669.577225246077,21243,Não em Epidemia
+Slovakia,2021,1145774,26669.577225246077,21179,Não em Epidemia
+Slovakia,2022,1145627,26669.577225246077,21148,Não em Epidemia
+Slovakia,2023,1145562,26669.577225246077,21116,Não em Epidemia
+Slovakia,2024,1145516,26669.577225246077,21085,Não em Epidemia
+Slovakia,2025,1145486,26669.577225246077,21059,Não em Epidemia
+Slovenia,2016,362527,21945.98010736432,18092,Não em Epidemia
+Slovenia,2017,358261,21945.98010736432,17793,Não em Epidemia
+Slovenia,2018,353955,21945.98010736432,17483,Não em Epidemia
+Slovenia,2019,350273,21945.98010736432,17209,Não em Epidemia
+Slovenia,2020,347310,21945.98010736432,16982,Não em Epidemia
+Slovenia,2021,344842,21945.98010736432,16793,Não em Epidemia
+Slovenia,2022,344339,21945.98010736432,16712,Não em Epidemia
+Slovenia,2023,343975,21945.98010736432,16648,Não em Epidemia
+Slovenia,2024,343681,21945.98010736432,16596,Não em Epidemia
+Slovenia,2025,343486,21945.98010736432,16555,Não em Epidemia
+South Africa,2016,27612648,51564.62539530384,55936,Epidemia
+South Africa,2017,28839876,51564.62539530384,57810,Epidemia
+South Africa,2018,30479312,51564.62539530384,60460,Epidemia
+South Africa,2019,32620854,51564.62539530384,63999,Epidemia
+South Africa,2020,35601976,51564.62539530384,69017,Epidemia
+South Africa,2021,40032356,51564.62539530384,76597,Epidemia
+South Africa,2022,46775028,51564.62539530384,88258,Epidemia
+South Africa,2023,57368456,51564.62539530384,106697,Epidemia
+South Africa,2024,74271784,51564.62539530384,136180,Epidemia
+South Africa,2025,102069280,51564.62539530384,184603,Epidemia
+South Korea,2016,11693748,30131.15879137684,23916,Não em Epidemia
+South Korea,2017,11542867,30131.15879137684,23527,Não em Epidemia
+South Korea,2018,11448040,30131.15879137684,23259,Não em Epidemia
+South Korea,2019,11370529,30131.15879137684,23027,Não em Epidemia
+South Korea,2020,11298167,30131.15879137684,22800,Não em Epidemia
+South Korea,2021,11245218,30131.15879137684,22606,Não em Epidemia
+South Korea,2022,11233699,30131.15879137684,22489,Não em Epidemia
+South Korea,2023,11225707,30131.15879137684,22376,Não em Epidemia
+South Korea,2024,11221234,30131.15879137684,22271,Não em Epidemia
+South Korea,2025,11218754,30131.15879137684,22174,Não em Epidemia
+Spain,2016,3075161,7729.14457429816,6876,Não em Epidemia
+Spain,2017,3052095,7729.14457429816,6724,Não em Epidemia
+Spain,2018,3036263,7729.14457429816,6601,Não em Epidemia
+Spain,2019,3023627,7729.14457429816,6506,Não em Epidemia
+Spain,2020,3013214,7729.14457429816,6440,Não em Epidemia
+Spain,2021,3004600,7729.14457429816,6405,Não em Epidemia
+Spain,2022,3002366,7729.14457429816,6407,Não em Epidemia
+Spain,2023,3000881,7729.14457429816,6426,Não em Epidemia
+Spain,2024,2999872,7729.14457429816,6448,Não em Epidemia
+Spain,2025,2999215,7729.14457429816,6464,Não em Epidemia
+Suriname,2016,166979,33418.48413225498,33111,Não em Epidemia
+Suriname,2017,166831,33418.48413225498,32731,Não em Epidemia
+Suriname,2018,166723,33418.48413225498,32364,Não em Epidemia
+Suriname,2019,166645,33418.48413225498,32009,Não em Epidemia
+Suriname,2020,166584,33418.48413225498,31664,Não em Epidemia
+Suriname,2021,166540,33418.48413225498,31329,Não em Epidemia
+Suriname,2022,166532,33418.48413225498,31007,Não em Epidemia
+Suriname,2023,166527,33418.48413225498,30694,Não em Epidemia
+Suriname,2024,166524,33418.48413225498,30392,Não em Epidemia
+Suriname,2025,166523,33418.48413225498,30101,Não em Epidemia
+Sweden,2016,1970364,21291.43933548868,21661,Epidemia
+Sweden,2017,1972124,21291.43933548868,21522,Epidemia
+Sweden,2018,1973567,21291.43933548868,21366,Epidemia
+Sweden,2019,1974758,21291.43933548868,21203,Não em Epidemia
+Sweden,2020,1976684,21291.43933548868,21051,Não em Epidemia
+Sweden,2021,1978169,21291.43933548868,20898,Não em Epidemia
+Sweden,2022,1979793,21291.43933548868,20751,Não em Epidemia
+Sweden,2023,1981432,21291.43933548868,20607,Não em Epidemia
+Sweden,2024,1983114,21291.43933548868,20467,Não em Epidemia
+Sweden,2025,1984868,21291.43933548868,20329,Não em Epidemia
+Switzerland,2016,910582,12107.4671132474,12171,Epidemia
+Switzerland,2017,909953,12107.4671132474,12036,Não em Epidemia
+Switzerland,2018,909109,12107.4671132474,11890,Não em Epidemia
+Switzerland,2019,908469,12107.4671132474,11742,Não em Epidemia
+Switzerland,2020,907900,12107.4671132474,11592,Não em Epidemia
+Switzerland,2021,907368,12107.4671132474,11442,Não em Epidemia
+Switzerland,2022,907274,12107.4671132474,11296,Não em Epidemia
+Switzerland,2023,907198,12107.4671132474,11155,Não em Epidemia
+Switzerland,2024,907150,12107.4671132474,11023,Não em Epidemia
+Switzerland,2025,907119,12107.4671132474,10903,Não em Epidemia
+Tanzania,2016,10578286,23689.641916525747,26032,Epidemia
+Tanzania,2017,10666679,23689.641916525747,25443,Epidemia
+Tanzania,2018,10779273,23689.641916525747,24912,Epidemia
+Tanzania,2019,10913201,23689.641916525747,24434,Epidemia
+Tanzania,2020,11067405,23689.641916525747,24008,Epidemia
+Tanzania,2021,11251485,23689.641916525747,23652,Não em Epidemia
+Tanzania,2022,11452722,23689.641916525747,23333,Não em Epidemia
+Tanzania,2023,11688554,23689.641916525747,23083,Não em Epidemia
+Tanzania,2024,11965129,23689.641916525747,22906,Não em Epidemia
+Tanzania,2025,12290689,23689.641916525747,22811,Não em Epidemia
+Thailand,2016,22062286,33497.95310132839,33517,Epidemia
+Thailand,2017,22014778,33497.95310132839,33257,Não em Epidemia
+Thailand,2018,21980254,33497.95310132839,33030,Não em Epidemia
+Thailand,2019,21952236,33497.95310132839,32822,Não em Epidemia
+Thailand,2020,21930154,33497.95310132839,32630,Não em Epidemia
+Thailand,2021,21913022,33497.95310132839,32449,Não em Epidemia
+Thailand,2022,21905686,33497.95310132839,32288,Não em Epidemia
+Thailand,2023,21900628,33497.95310132839,32139,Não em Epidemia
+Thailand,2024,21897150,33497.95310132839,32006,Não em Epidemia
+Thailand,2025,21894868,33497.95310132839,31890,Não em Epidemia
+Togo,2016,1960879,31743.66200893574,33589,Epidemia
+Togo,2017,1960773,31743.66200893574,32694,Epidemia
+Togo,2018,1966532,31743.66200893574,31915,Epidemia
+Togo,2019,1974222,31743.66200893574,31186,Não em Epidemia
+Togo,2020,1985599,31743.66200893574,30534,Não em Epidemia
+Togo,2021,1998490,31743.66200893574,29921,Não em Epidemia
+Togo,2022,2008106,31743.66200893574,29275,Não em Epidemia
+Togo,2023,2018700,31743.66200893574,28663,Não em Epidemia
+Togo,2024,2030008,31743.66200893574,28082,Não em Epidemia
+Togo,2025,2041965,31743.66200893574,27532,Não em Epidemia
+Turkey,2016,19554348,29739.58139726517,28437,Não em Epidemia
+Turkey,2017,19500532,29739.58139726517,28019,Não em Epidemia
+Turkey,2018,19460178,29739.58139726517,27627,Não em Epidemia
+Turkey,2019,19426700,29739.58139726517,27231,Não em Epidemia
+Turkey,2020,19399078,29739.58139726517,26821,Não em Epidemia
+Turkey,2021,19376504,29739.58139726517,26395,Não em Epidemia
+Turkey,2022,19372632,29739.58139726517,25979,Não em Epidemia
+Turkey,2023,19370122,29739.58139726517,25559,Não em Epidemia
+Turkey,2024,19368418,29739.58139726517,25144,Não em Epidemia
+Turkey,2025,19367408,29739.58139726517,24744,Não em Epidemia
+Uganda,2016,17297400,49749.410714034646,58535,Epidemia
+Uganda,2017,17828912,49749.410714034646,58283,Epidemia
+Uganda,2018,18551700,49749.410714034646,58589,Epidemia
+Uganda,2019,19484008,49749.410714034646,59453,Epidemia
+Uganda,2020,20678648,49749.410714034646,60972,Epidemia
+Uganda,2021,22200622,49749.410714034646,63261,Epidemia
+Uganda,2022,24097240,49749.410714034646,66371,Epidemia
+Uganda,2023,26640862,49749.410714034646,70941,Epidemia
+Uganda,2024,30204708,49749.410714034646,77780,Epidemia
+Uganda,2025,35393504,49749.410714034646,88164,Epidemia
+Ukraine,2016,12269637,33632.881880692796,26320,Não em Epidemia
+Ukraine,2017,12227720,33632.881880692796,26361,Não em Epidemia
+Ukraine,2018,12185397,33632.881880692796,26383,Não em Epidemia
+Ukraine,2019,12153841,33632.881880692796,26425,Não em Epidemia
+Ukraine,2020,12137513,33632.881880692796,26505,Não em Epidemia
+Ukraine,2021,12124290,33632.881880692796,26602,Não em Epidemia
+Ukraine,2022,12118962,33632.881880692796,26724,Não em Epidemia
+Ukraine,2023,12115294,33632.881880692796,26854,Não em Epidemia
+Ukraine,2024,12113186,33632.881880692796,26988,Não em Epidemia
+Ukraine,2025,12111950,33632.881880692796,27122,Não em Epidemia
+United Arab Emirates,2016,3456438,49181.56822986698,65937,Epidemia
+United Arab Emirates,2017,3683600,49181.56822986698,60946,Epidemia
+United Arab Emirates,2018,3942702,49181.56822986698,57188,Epidemia
+United Arab Emirates,2019,4240152,49181.56822986698,55308,Epidemia
+United Arab Emirates,2020,4582750,49181.56822986698,55410,Epidemia
+United Arab Emirates,2021,4980220,49181.56822986698,57426,Epidemia
+United Arab Emirates,2022,5403927,49181.56822986698,60715,Epidemia
+United Arab Emirates,2023,5881838,49181.56822986698,65308,Epidemia
+United Arab Emirates,2024,6420414,49181.56822986698,70781,Epidemia
+United Arab Emirates,2025,7027622,49181.56822986698,76769,Epidemia
+United Kingdom,2016,8576019,14759.846249178725,14105,Não em Epidemia
+United Kingdom,2017,8543385,14759.846249178725,13911,Não em Epidemia
+United Kingdom,2018,8511701,14759.846249178725,13712,Não em Epidemia
+United Kingdom,2019,8487012,14759.846249178725,13531,Não em Epidemia
+United Kingdom,2020,8468985,14759.846249178725,13378,Não em Epidemia
+United Kingdom,2021,8454774,14759.846249178725,13250,Não em Epidemia
+United Kingdom,2022,8451346,14759.846249178725,13154,Não em Epidemia
+United Kingdom,2023,8449112,14759.846249178725,13071,Não em Epidemia
+United Kingdom,2024,8447673,14759.846249178725,12993,Não em Epidemia
+United Kingdom,2025,8446798,14759.846249178725,12916,Não em Epidemia
+United States,2016,52160448,18184.312626579984,17514,Não em Epidemia
+United States,2017,51951288,18184.312626579984,17283,Não em Epidemia
+United States,2018,51822892,18184.312626579984,17082,Não em Epidemia
+United States,2019,51715084,18184.312626579984,16896,Não em Epidemia
+United States,2020,51608508,18184.312626579984,16721,Não em Epidemia
+United States,2021,51516384,18184.312626579984,16562,Não em Epidemia
+United States,2022,51487364,18184.312626579984,16432,Não em Epidemia
+United States,2023,51467152,18184.312626579984,16311,Não em Epidemia
+United States,2024,51453008,18184.312626579984,16195,Não em Epidemia
+United States,2025,51443092,18184.312626579984,16080,Não em Epidemia
+Uzbekistan,2016,9116384,32686.971834949534,33902,Epidemia
+Uzbekistan,2017,9140077,32686.971834949534,33489,Epidemia
+Uzbekistan,2018,9165157,32686.971834949534,33068,Epidemia
+Uzbekistan,2019,9192266,32686.971834949534,32648,Não em Epidemia
+Uzbekistan,2020,9220377,32686.971834949534,32232,Não em Epidemia
+Uzbekistan,2021,9250237,32686.971834949534,31823,Não em Epidemia
+Uzbekistan,2022,9280823,32686.971834949534,31417,Não em Epidemia
+Uzbekistan,2023,9312945,32686.971834949534,31023,Não em Epidemia
+Uzbekistan,2024,9346830,32686.971834949534,30646,Não em Epidemia
+Uzbekistan,2025,9382499,32686.971834949534,30290,Não em Epidemia
+Zimbabwe,2016,3014544,22189.828597083724,22969,Epidemia
+Zimbabwe,2017,3021293,22189.828597083724,22666,Epidemia
+Zimbabwe,2018,3029440,22189.828597083724,22344,Epidemia
+Zimbabwe,2019,3039720,22189.828597083724,22010,Não em Epidemia
+Zimbabwe,2020,3050317,22189.828597083724,21654,Não em Epidemia
+Zimbabwe,2021,3062277,22189.828597083724,21286,Não em Epidemia
+Zimbabwe,2022,3072646,22189.828597083724,20887,Não em Epidemia
+Zimbabwe,2023,3083476,22189.828597083724,20482,Não em Epidemia
+Zimbabwe,2024,3094673,22189.828597083724,20080,Não em Epidemia
+Zimbabwe,2025,3106120,22189.828597083724,19687,Não em Epidemia

@@ -5,6 +5,7 @@ use AntiPlague;
 select count(*) from covid_data_total where location = 'China';
 select count(*) from covid_data_total where location = 'United States';
 
+truncate covid_data_total;
 
 select * from covid_data_total;
 
