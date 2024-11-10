@@ -15,8 +15,8 @@ CREATE TABLE IF NOT EXISTS dados_demograficos (
     Numero_Casos_Infeccoes INT,
     PRIMARY KEY (Local, Ano)
 );
-drop table dados_demograficos;
-drop table previsao_epidemia;
+#drop table dados_demograficos;
+#drop table previsao_epidemia;
 
 CREATE TABLE IF NOT EXISTS previsao_epidemia (
     Local VARCHAR(50),
@@ -29,6 +29,8 @@ CREATE TABLE IF NOT EXISTS previsao_epidemia (
 );
 
 
-select * from dados_demograficos where Local = 'Zimbabwe';
+select * from dados_demograficos where Local = 'Brazil' and Ano = 2020;
 
-select * from previsao_epidemia where Local = 'Zimbabwe';
+select * from previsao_epidemia where Local = 'Brazil';
+
+#truncate table previsao_epidemia;
