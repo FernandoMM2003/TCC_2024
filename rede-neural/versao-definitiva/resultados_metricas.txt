@@ -1,0 +1,5 @@
+Resultados das Métricas e Previsões
+==================================================
+
+Mean Squared Error (MSE) do Modelo: 4470519322093.4648
+R² Score do Modelo: 0.9989
